@@ -1,0 +1,209 @@
+[
+ {
+  "titulo": "CASSEM -Composites and Adaptive Structures: Simulation, Experimentation and Modeling",
+  "tipo": "contract",
+  "financiador": "N/A",
+  "inicio": "2005",
+  "fim": "2008",
+  "codigo": "FP6-STREP, Project Contract No. 013517-NMP3-CT-2005-013517",
+  "url": ""
+ },
+ {
+  "titulo": "Modelos Computacionais para a optimização, dano e identificação de propriedades materiais e estruturas compósitas adaptativas",
+  "tipo": "contract",
+  "financiador": "N/A",
+  "inicio": "2001",
+  "fim": "2004",
+  "codigo": "POCTI/2001/EME/37559",
+  "url": ""
+ },
+ {
+  "titulo": "Strategic Project - LA 22 - 2011-2012",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2011-01",
+  "fim": "2012-12",
+  "codigo": "PEst-OE/EME/LA0022/2011",
+  "url": ""
+ },
+ {
+  "titulo": "Laboratório Associado de Energia, Transportes e Aeronáutica",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2020-01",
+  "fim": "2024-12",
+  "codigo": "UIDB/50022/2020",
+  "url": ""
+ },
+ {
+  "titulo": "MOCHVar - Modeling and Optimization of Variable Stiffness Hybrid Composites",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2019-05",
+  "fim": "2020-05",
+  "codigo": "MOCHVar",
+  "url": ""
+ },
+ {
+  "titulo": "SoftImob - Design and manufacturing of immobilization masks for diagnosis and therapy",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2016",
+  "fim": "2017",
+  "codigo": "SoftImob",
+  "url": ""
+ },
+ {
+  "titulo": "CompDrill - Prediction of variability in composite materials, induced by drilling operations",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2016",
+  "fim": "2017",
+  "codigo": "CompDrill",
+  "url": ""
+ },
+ {
+  "titulo": "Modeling, Testing and Damage Identification in Structures Built in Composite Materials with Piezoelectric Patches",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "1998",
+  "fim": "1998",
+  "codigo": "POCTI/P/EME/12028/1998",
+  "url": ""
+ },
+ {
+  "titulo": "IGACFC - Isogeometric Analysis of Carbon Fiber Composites",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2018-04",
+  "fim": "2019-04",
+  "codigo": "IGACFC",
+  "url": ""
+ },
+ {
+  "titulo": "FOAM4ENER - Multifunctional cobalt oxide nanofoams: novel electrode materials for supercapacitors and electrocatalytic oxygen reactions",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2018",
+  "fim": "2021",
+  "codigo": "LISBOA-01-0145-FEDER-028299",
+  "url": ""
+ },
+ {
+  "titulo": "MorphingRT - Project of Radiotherapy table with adaptable morphology",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017",
+  "fim": "2018",
+  "codigo": "MorphingRT",
+  "url": ""
+ },
+ {
+  "titulo": "V2MIP - Variational Methods for Medical Image Processing",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2016",
+  "fim": "2017",
+  "codigo": "V2MIP",
+  "url": ""
+ },
+ {
+  "titulo": "CompSBJ - Bonding of composites by mass plastic deformation",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2016",
+  "fim": "2017",
+  "codigo": "CompSBJ",
+  "url": ""
+ },
+ {
+  "titulo": "ReabOp - Optimization of documentation workflows in the rehabilitation of built structures",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2012",
+  "fim": "2016",
+  "codigo": "PTDC/ATP-AQI/5355/2012",
+  "url": ""
+ },
+ {
+  "titulo": "Optimal design of laminated thermo-piezo-viscoelastic composites",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2010",
+  "fim": "2014",
+  "codigo": "PTDC/EME-PME/120830/2010",
+  "url": ""
+ },
+ {
+  "titulo": "Modeling, Testing and Damage Identification of Composite Structures with Piezoelectric Laminae",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "1998",
+  "fim": "2001",
+  "codigo": "PRAXIS/P/EME/12028/1998",
+  "url": ""
+ },
+ {
+  "titulo": "Computer Optimal Design of Structures built in Composite Materials",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "1992",
+  "fim": "1996",
+  "codigo": "STRIDE-STRDA/C/TPR/592/92",
+  "url": ""
+ },
+ {
+  "titulo": "MorphRT2 - Radiotherapy table with adaptive morphology",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2019-05",
+  "fim": "2020-05",
+  "codigo": "MorphRT2",
+  "url": ""
+ },
+ {
+  "titulo": "RCSpray - Evaluation of the mechanical strength of repairs carried out with Cold Spray technology when subjected to cyclic loads",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017",
+  "fim": "2018",
+  "codigo": "RCSpray",
+  "url": ""
+ },
+ {
+  "titulo": "EWDMat - Heterogeneous O-Cu and A-Fe Explosion Welding: Analysis of Interfacial Phenomena and Welding Conditions",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017",
+  "fim": "2018",
+  "codigo": "EWDMat",
+  "url": ""
+ },
+ {
+  "titulo": "Nanoespumas multifuncionais de óxido de cobalto: novos materiais de eléctrodo para supercondensadores e reacções electrocatalíticas do oxigénio",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2018-08",
+  "fim": "2021-12",
+  "codigo": "PTDC/QUI-ELT/28299/2017",
+  "url": ""
+ },
+ {
+  "titulo": "Associate Laboratory of  Energy, Transports and Aeronautics",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2019-01",
+  "fim": "2019-12",
+  "codigo": "UID/EMS/50022/2019",
+  "url": ""
+ },
+ {
+  "titulo": "Data-driven virtual sensing for FGM plates monitoring",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2023-03",
+  "fim": "2023-08",
+  "codigo": "VS-FGM/IDICA/2022",
+  "url": ""
+ }
+]

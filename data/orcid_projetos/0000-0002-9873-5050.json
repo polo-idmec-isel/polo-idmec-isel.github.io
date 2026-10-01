@@ -1,0 +1,110 @@
+[
+ {
+  "titulo": "Associate Laboratory of Energy, Transports and Aeronautics",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2020-01",
+  "fim": "2024-12",
+  "codigo": "UIDB/50022/2020",
+  "url": ""
+ },
+ {
+  "titulo": "Laboratório Associado de Energia, Transportes e Aeronáutica",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2020-01",
+  "fim": "2024-12",
+  "codigo": "UIDP/50022/2020",
+  "url": ""
+ },
+ {
+  "titulo": "Laboratório Associado em Energia, Transportes e Aeroespacial",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2021-01",
+  "fim": "2025-12",
+  "codigo": "LA/P/0079/2020",
+  "url": ""
+ },
+ {
+  "titulo": "PROMPT2 - Ferramenta de Precisão sobre uma Plataforma Móvel – Duplo Braço",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017",
+  "fim": "2018",
+  "codigo": "IPL/2017/PROMPT2/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "ROBOTCLEAN - Indústria 4.0 aplicada à lavagem robotizada de camiões cisterna para transporte de produtos tóxicos",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017",
+  "fim": "2018",
+  "codigo": "IPL/2017/ROBOTCLEAN/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "SyncOHM - Controlo sincronizado de manipuladores óleo-Hidráulicos para crossdocking móvel",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2022-09",
+  "fim": "2023-09",
+  "codigo": "IPL/2023/SynCOHM_ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "RoSMoC - Sistema Robotizado para Crossdocking Móvel",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2021-09",
+  "fim": "2022-09",
+  "codigo": "IPL/2021/RoSMoC_ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "SLaMiD - Distribuição Last Mile Inteligente",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2020-09",
+  "fim": "2021-09",
+  "codigo": "IPL/2020/SLaMiD_ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "CISROBCLE - Desenvolvimento de um sistema robótico inteligente para a lavagem de cisternas",
+  "tipo": "contract",
+  "financiador": "Agência Nacional de Inovação SA",
+  "inicio": "2020-02",
+  "fim": "2023-04",
+  "codigo": "FEDER-039764",
+  "url": ""
+ },
+ {
+  "titulo": "DROVIMO  - Projeto de um drone para monitorização de vinhas e diagnóstico de stress",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2018-10",
+  "fim": "2019-09",
+  "codigo": "IPL/2018/DROVIMO_ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "PROMPT - PRecision On a Mobile Platform Tool",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017-03",
+  "fim": "2017-12",
+  "codigo": "IPL/2017/PROMPT/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "GEErVap - Aplicação Computacional de um Gerador de Vapor para Produção Energia Elétrica: condições de operação e emissão de Gases de Efeito de Estufa",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2023-09",
+  "fim": "",
+  "codigo": "IPL/2023/GEErVap_ISEL",
+  "url": ""
+ }
+]

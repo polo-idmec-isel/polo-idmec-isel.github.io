@@ -1,0 +1,110 @@
+[
+ {
+  "titulo": "Isogeometric Analysis of Carbon Fiber Composites",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2018-10",
+  "fim": "2019-09",
+  "codigo": "IGACFC",
+  "url": ""
+ },
+ {
+  "titulo": "Variational Methods for Medical Image Processing",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017-01",
+  "fim": "2018-04",
+  "codigo": "V2MIP",
+  "url": ""
+ },
+ {
+  "titulo": "Additive Manufacturing for Large Part Size",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2018-10",
+  "fim": "2021-09",
+  "codigo": "PTDC/EME-EME/32103/2017",
+  "url": ""
+ },
+ {
+  "titulo": "EBME – Estudo Biomecânico do Movimento Éttendre",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017-07",
+  "fim": "2018-06",
+  "codigo": "IPL/2017/EBME/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "e-techStone 4.0  Novas tecnologias para a competitividade da pedra natural",
+  "tipo": "contract",
+  "financiador": "N/A",
+  "inicio": "2017-01",
+  "fim": "2017-12",
+  "codigo": "POCI-01-0247-FEDER-017882",
+  "url": ""
+ },
+ {
+  "titulo": "Dinâmicas de inovação em aeronáutica e na Embraer em Évora: uma plataforma distributiva para iniciativas empresariais, emprego e desenvolvimento de capacidades",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2015-03",
+  "fim": "2015-08",
+  "codigo": "CMUP-ERI/TPE/0011/2013",
+  "url": ""
+ },
+ {
+  "titulo": "NITI-FAIL - AVALIAÇÃO DO RISCO DE FRACTURA EM LIMAS ENDODÔNTICAS DE NI-TI DURANTE O SEU USO CLÍNICO",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2013-06",
+  "fim": "2014-06",
+  "codigo": "PTDC/EME-PME/122795/2010",
+  "url": ""
+ },
+ {
+  "titulo": "Novel Air Vehicles Configurations: From Fluttering Wings to Morphing Flight",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2011-09",
+  "fim": "2013-01",
+  "codigo": "info:eu-repo/grantAgreement/EC/FP7/285395/EU",
+  "url": ""
+ },
+ {
+  "titulo": "Fast Level Set Algorithm Applied to Topology Optimization",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2009-03",
+  "fim": "2013-01",
+  "codigo": "info:eu-repo/grantAgreement/FCT/3599-PPCDT/64809/PT",
+  "url": ""
+ },
+ {
+  "titulo": "IGACFC – Análise Isogeométrica de Compósitos de Fibras de Carbono",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2018-10",
+  "fim": "2019-09",
+  "codigo": "IPL/2018/IGAFC/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "DEVELOPMENT OF A BIOMIMETIC HAND SIMULATOR FOR ADVANCED PROSTHETIC AND ORTHOPEDIC APPLICATIONS",
+  "tipo": "grant",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2006-01",
+  "fim": "2009-12",
+  "codigo": "SFRH/BD/22861/2005",
+  "url": ""
+ },
+ {
+  "titulo": "Laboratório Associado de Energia, Transportes e Aeronáutica",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2019-01",
+  "fim": "2019-12",
+  "codigo": "UID/EMS/50022/2019",
+  "url": ""
+ }
+]
