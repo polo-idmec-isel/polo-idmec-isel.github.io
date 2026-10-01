@@ -217,7 +217,10 @@ def load_projects(members, cfg):
                         p[k] = w[k]
             if idx not in p["membros"]:
                 p["membros"].append(idx)
-    projs = [p for p in projs if not ended(p)]
+    # só projetos já iniciados: propostas em avaliação registadas no ORCID com
+    # data de início futura não aparecem (um projeto aprovado aparece quando começar)
+    started = lambda p: (p.get("inicio") or "") <= today[: len(p.get("inicio") or "")]
+    projs = [p for p in projs if not ended(p) and started(p)]
     projs.sort(key=lambda p: (p.get("inicio") or "0000"), reverse=True)
     return projs
 
