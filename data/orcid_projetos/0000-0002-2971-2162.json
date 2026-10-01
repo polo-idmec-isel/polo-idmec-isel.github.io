@@ -1,0 +1,92 @@
+[
+ {
+  "titulo": "Projecto Estratégico - LA 22 - 2011-2012",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2011-01",
+  "fim": "2012-12",
+  "codigo": "PEst-OE/EME/LA0022/2011",
+  "url": ""
+ },
+ {
+  "titulo": "Associate Laboratory of Energy, Transports and Aerospace.",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2021-01",
+  "fim": "2025-12",
+  "codigo": "LA/P/0079/2020",
+  "url": ""
+ },
+ {
+  "titulo": "MODELAÇÃO NUMÉRICA DO APARELHO LOCOMOTOR HUMANO UTILIZANDO TÉCNICAS DE CONTROLO ÓPTIMO",
+  "tipo": "grant",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2001-04",
+  "fim": "2005-03",
+  "codigo": "SFRH/BD/3004/2000",
+  "url": ""
+ },
+ {
+  "titulo": "Associate Laboratory of Energy, Transports and Aerospace",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2025-01",
+  "fim": "2029-12",
+  "codigo": "UID/50022/2025",
+  "url": ""
+ },
+ {
+  "titulo": "Associate Laboratory of Energy, Transports and Aeronautics",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2020-01",
+  "fim": "2024-12",
+  "codigo": "UIDP/50022/2020",
+  "url": ""
+ },
+ {
+  "titulo": "Associate Laboratory of  Energy, Transports and Aeronautics",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2015-01",
+  "fim": "2018-12",
+  "codigo": "UID/EMS/50022/2013",
+  "url": ""
+ },
+ {
+  "titulo": "Strategic Project - LA 22 - 2013-2014",
+  "tipo": "contract",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2013-01",
+  "fim": "2014-12",
+  "codigo": "PEst-OE/EME/LA0022/2013",
+  "url": ""
+ },
+ {
+  "titulo": "EBME: Estudo Biomecânico do Movimento Éttendre",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017-07",
+  "fim": "2018-10",
+  "codigo": "IPL/2017/EBME/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "SoftImob: Concepção e produção de máscaras de imobilização para diagnóstico e terapêutica",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017-01",
+  "fim": "2017-12",
+  "codigo": "IPL/2016/SoftImob/ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "CompDril: Previsão da variabilidade em materiais compósitos, induzida por operações de furação",
+  "tipo": "contract",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2017-01",
+  "fim": "2017-12",
+  "codigo": "IPL/2016/CompDrill_ISEL",
+  "url": ""
+ }
+]

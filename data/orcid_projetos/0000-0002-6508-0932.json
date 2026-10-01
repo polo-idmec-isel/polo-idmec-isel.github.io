@@ -1,0 +1,101 @@
+[
+ {
+  "titulo": "Acumulação de Evidências em Aprendizagem não Supervisionada e Semi-supervisionada: Métodos de Conjunto",
+  "tipo": "grant",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2010-01",
+  "fim": "2013-02",
+  "codigo": "PTDC/EIA-CCO/103230/2008",
+  "url": ""
+ },
+ {
+  "titulo": "Instituto Politécnico de Lisboa (IPL) Grant IPL/IDI&CA2024/M-IA-RCH ISEL - Modelos de IA para Reabilitação Cardíaca Híbrida",
+  "tipo": "grant",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2024-09",
+  "fim": "2025-08",
+  "codigo": "IPL/IDI&CA2024/M-IA-RCH_ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "SSHM4Dams - Monitorização Sísmica e da Integridade Estrutural de Grandes Barragens de Betão",
+  "tipo": "grant",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2022-03",
+  "fim": "2022-09",
+  "codigo": "PTDC/ECI-EGC/5332/202",
+  "url": ""
+ },
+ {
+  "titulo": "EMUSuL - Ensemble Methods for Unsupervised and Semi-Supervised Learning",
+  "tipo": "grant",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2005-01",
+  "fim": "2007-12",
+  "codigo": "POSC/EEA-SRI/61924/2004,",
+  "url": ""
+ },
+ {
+  "titulo": "F3S - Plataforma de apoio ao treino de figuras obrigatórias em patinagem artística",
+  "tipo": "grant",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2019-09",
+  "fim": "2020-08",
+  "codigo": "IPL/2019/F3S_ESCS",
+  "url": ""
+ },
+ {
+  "titulo": "PREMO - Predictive Models of COVID-19 Outcomes for Higher Risk Patients Towards a Precision Medicine",
+  "tipo": "grant",
+  "financiador": "Fundação para a Ciência e a Tecnologia",
+  "inicio": "2020-01",
+  "fim": "2024-12",
+  "codigo": "PREMO-DSAIPA/DS/0117/2020",
+  "url": ""
+ },
+ {
+  "titulo": "Instituto Politécnico de Lisboa (IPL) Grant IPL/IDI&CA2024/ML4EP ISEL - Explicabilidade sobre Modelos de Machine Learning",
+  "tipo": "grant",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2024-09",
+  "fim": "2025-08",
+  "codigo": "IPL/IDI&CA2024/ML4EP ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "ML4EP - Machine Learning for Explainability Purposes",
+  "tipo": "grant",
+  "financiador": "Instituto Politécnico de Lisboa",
+  "inicio": "2024-09",
+  "fim": "2025-08",
+  "codigo": "IPL/IDI&CA2024/ML4EP_ISEL",
+  "url": ""
+ },
+ {
+  "titulo": "REV@CONSTRUCTION - Digital Construction Revolution",
+  "tipo": "contract",
+  "financiador": "Agência Nacional de Inovação",
+  "inicio": "2020-06",
+  "fim": "2022-06",
+  "codigo": "LISBOA-01-0247-FEDER-046123",
+  "url": ""
+ },
+ {
+  "titulo": "DeLKeTI - Development and Learning of Kernels for Text and Images",
+  "tipo": "grant",
+  "financiador": "FCT",
+  "inicio": "2007-11",
+  "fim": "2010-12",
+  "codigo": "PTDC/EEA-TEL/72572/2006",
+  "url": ""
+ },
+ {
+  "titulo": "TBiM - Trading Batteries in Markets",
+  "tipo": "contract",
+  "financiador": "InfraTrading",
+  "inicio": "2024-09",
+  "fim": "2025-09",
+  "codigo": "",
+  "url": ""
+ }
+]

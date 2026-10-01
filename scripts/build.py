@@ -161,7 +161,21 @@ def load_projects(members, cfg):
 
     def ended(p):
         f = p.get("fim") or ""
-        return bool(f) and f < today[: len(f)]
+        if not f:  # sem data de fim: assume 3 anos de duração a partir do início
+            i = p.get("inicio") or ""
+            if not i:
+                return False
+            y = int(i[:4]) + 3
+            f = f"{y}{i[4:]}"
+        return f < today[: len(f)]
+
+    def institutional(w):
+        """Financiamento estratégico de unidades (LAETA, UID...), não é um projeto."""
+        c = (w.get("codigo") or "").upper()
+        t = (w.get("titulo") or "").lower()
+        return (c.startswith(("UID", "LA/P", "PEST"))
+                or "laboratório associado" in t or "associate laboratory" in t
+                or "strategic project" in t or "projecto estratégico" in t or "projeto estratégico" in t)
 
     projs, manual = [], []
     mf = DATA / "projetos.json"
@@ -190,7 +204,7 @@ def load_projects(members, cfg):
         if not m.get("orcid") or not f.exists():
             continue
         for w in json.loads(f.read_text(encoding="utf-8")):
-            if w.get("tipo") not in tipos:
+            if w.get("tipo") not in tipos or institutional(w):
                 continue
             p = find(w)
             if p is None:
@@ -214,6 +228,8 @@ def render_projects(projs, members):
         title = f'<a href="{e(p["url"])}">{e(p["titulo"])}</a>' if p.get("url") else e(p["titulo"])
         tipo = p.get("tipo_label") or TIPOS_PROJ.get(p.get("tipo"), "Projeto")
         per = " – ".join(x for x in (fmt_ym(p.get("inicio")), fmt_ym(p.get("fim"))) if x)
+        if (p.get("inicio") or "") > time.strftime("%Y-%m")[: len(p.get("inicio") or "")]:
+            per = f"a iniciar em {fmt_ym(p['inicio'])}"
         meta = " · ".join(e(x) for x in (tipo, p.get("financiador"), p.get("codigo"), per) if x)
         who = ", ".join(
             e(members[i]["nome"]) + (f' — {e(p["funcoes"][i])}' if i in (p.get("funcoes") or {}) else "")
@@ -242,7 +258,8 @@ def main():
     upd = read_date("ultima_atualizacao.txt")
     upd_p = read_date("ultima_atualizacao_projetos.txt")
     depts = {m["departamento"] for m in members if m.get("departamento")}
-    options = '<option value="c">Só publicações conjuntas</option>' + "".join(
+    show_joint = n_joint >= int(cfg.get("mostrar_conjuntas_a_partir_de", 10))
+    options = ('<option value="c">Só publicações conjuntas</option>' if show_joint else "") + "".join(
         f'<option value="{i}">{e(m["nome"])}</option>' for i, m in enumerate(members) if m.get("orcid")
     )
     contacts = "".join(
@@ -262,13 +279,12 @@ def main():
         n_membros=len(members),
         n_depts=len(depts),
         n_pubs=len(pubs),
-        tile_conjuntas=(f'<div><strong>{n_joint}</strong>publicações conjuntas</div>'
-                        if n_joint >= int(cfg.get("mostrar_conjuntas_a_partir_de", 10)) else ""),
+        tile_conjuntas=f'<div><strong>{n_joint}</strong>publicações conjuntas</div>' if show_joint else "",
         ano_inicio=int(cfg.get("ano_inicio", 2024)),
         membros="".join(render_member(m) for m in members),
         projetos=proj_section,
         nav_projetos='<a href="#projetos">Projetos</a>' if projs else "",
-        colaboracoes=render_collabs(pubs, members),
+        colaboracoes=render_collabs(pubs, members) if show_joint else "",
         publicacoes=render_pubs(pubs, members),
         opcoes=options,
         atualizado=f"Atualizado automaticamente a partir do ORCID em {upd}." if upd else "Atualizado automaticamente a partir do ORCID.",
