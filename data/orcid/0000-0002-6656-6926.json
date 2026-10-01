@@ -1,0 +1,130 @@
+[
+ {
+  "titulo": "Revisiting RANS turbulence modelling used in built-environment CFD simulations",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "Building and Environment",
+  "doi": "10.1016/j.buildenv.2023.110333",
+  "url": "https://doi.org/10.1016/j.buildenv.2023.110333"
+ },
+ {
+  "titulo": "Estudo da viabilidade de uma mini central a biomassa com forno rotativo",
+  "ano": 2023,
+  "tipo": "dissertation-thesis",
+  "revista": "",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/17069"
+ },
+ {
+  "titulo": "ESIMPLE, a new pressure–velocity coupling algorithm for built-environment CFD simulations",
+  "ano": 2021,
+  "tipo": "journal-article",
+  "revista": "Building and Environment",
+  "doi": "10.1016/j.buildenv.2021.108170",
+  "url": "https://doi.org/10.1016/j.buildenv.2021.108170"
+ },
+ {
+  "titulo": "A influência da radiação solar nas condições de conforto em espaços climatizados para ocupação humana",
+  "ano": 2021,
+  "tipo": "dissertation-thesis",
+  "revista": "",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/14085"
+ },
+ {
+  "titulo": "Is air moisture relevant on radiative heat exchange inside built environments?",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "Engineering Computations",
+  "doi": "10.1108/ec-01-2019-0026",
+  "url": "http://dx.doi.org/10.1108/ec-01-2019-0026"
+ },
+ {
+  "titulo": "Projeto de um ciclo de refrigeração a CO2 aplicado num supermercado",
+  "ano": 2019,
+  "tipo": "dissertation-thesis",
+  "revista": "",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/12800"
+ },
+ {
+  "titulo": "Harmonização dos requisitos regulamentares referentes a meios de segunda intervenção para combate a incêndios em edifícios",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "6as Jornadas de Segurança aos Incêndios Urbanos (6JORNINC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Sistemas de controlo de fumo passivos",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "6as Jornadas de Segurança aos Incêndios Urbanos (6JORNINC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Sistemas de controlo de fumo passivos – uma proposta para a revisão do regulamento técnico de segurança contra incêndio em edifícios",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "6as Jornadas de Segurança aos Incêndios Urbanos (6JORNINC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Dimensionamento das redes de água de segunda intervenção",
+  "ano": 2018,
+  "tipo": "dissertation-thesis",
+  "revista": "",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/9595"
+ },
+ {
+  "titulo": "Dimensionamento de sistemas de controlo de fumo passivo",
+  "ano": 2018,
+  "tipo": "dissertation-thesis",
+  "revista": "",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/9596"
+ },
+ {
+  "titulo": "Characterization of non-isothermal flows typical of built environments in a laboratory scale model. Part II: Numerical predictions with CFD",
+  "ano": 2013,
+  "tipo": "journal-article",
+  "revista": "Building and Environment",
+  "doi": "",
+  "url": "http://dx.doi.org/10.1016/j.buildenv.2013.06.007"
+ },
+ {
+  "titulo": "Characterization of non-isothermal flows typical of built environments in a laboratory scale model. Part I - Experiments with 3D PIV",
+  "ano": 2013,
+  "tipo": "journal-article",
+  "revista": "Building and Environment",
+  "doi": "10.1016/j.buildenv.2013.06.007",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84882898411&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Characterization of non-isothermal flows typical of built environments in a laboratory scale model. Part II - Numerical predictions with CFD",
+  "ano": 2013,
+  "tipo": "journal-article",
+  "revista": "Building and Environment",
+  "doi": "10.1016/j.buildenv.2013.06.006",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84882887403&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Comparing displacement ventilation and mixing ventilation as HVAC strategies through CFD",
+  "ano": 2009,
+  "tipo": "journal-article",
+  "revista": "Engineering Computations (Swansea, Wales)",
+  "doi": "10.1108/02644400910996844",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-74249123349&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "A importância do vapor de água contido no ar nas trocas de calor por radiação em escoamentos de climatização",
+  "ano": 2005,
+  "tipo": "conference-paper",
+  "revista": "Congreso de Métodos Numéricos en Ingeniería 2005, SEMNI, España 2005",
+  "doi": "",
+  "url": ""
+ }
+]

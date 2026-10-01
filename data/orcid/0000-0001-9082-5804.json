@@ -1,0 +1,74 @@
+[
+ {
+  "titulo": "Development and validation of SuperDEM for non-spherical particulate systems using a superquadric particle method",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "Particuology",
+  "doi": "10.1016/j.partic.2020.11.007",
+  "url": "http://dx.doi.org/10.1016/j.partic.2020.11.007"
+ },
+ {
+  "titulo": "3D Printing of Abdominal Immobilization Masks for Therapeutics: Dosimetric, Mechanical and Financial Analysis",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "Bioengineering",
+  "doi": "10.3390/bioengineering9020055",
+  "url": "http://dx.doi.org/10.3390/bioengineering9020055"
+ },
+ {
+  "titulo": "Radiotherapy-customized head immobilization masks: from modeling and analysis to 3D printing",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "Nuclear Science and Techniques",
+  "doi": "10.1007/s41365-019-0667-2",
+  "url": "http://dx.doi.org/10.1007/s41365-019-0667-2"
+ },
+ {
+  "titulo": "Biomechanics of a Pedestrian Accident Reconstruction",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "2019 IEEE 6th Portuguese Meeting on Bioengineering (ENBENG)",
+  "doi": "10.1109/enbeng.2019.8692470",
+  "url": "http://dx.doi.org/10.1109/enbeng.2019.8692470"
+ },
+ {
+  "titulo": "Characterization of a dance movement using a Kinetic camera*",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "2019 IEEE 6th Portuguese Meeting on Bioengineering (ENBENG)",
+  "doi": "10.1109/enbeng.2019.8692449",
+  "url": "http://dx.doi.org/10.1109/enbeng.2019.8692449"
+ },
+ {
+  "titulo": "Developments on finite element methods for medical image supported diagnostics",
+  "ano": 2018,
+  "tipo": "book",
+  "revista": "Lecture Notes in Computational Vision and Biomechanics",
+  "doi": "10.1007/978-3-319-68195-5_30",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85032356794&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Contact Detection Between Convex Superquadric Surfaces",
+  "ano": 2010,
+  "tipo": "journal-article",
+  "revista": "Archive of Mechanical Engineering",
+  "doi": "10.2478/v10180-010-0009-8",
+  "url": "http://dx.doi.org/10.2478/v10180-010-0009-8"
+ },
+ {
+  "titulo": "Contact detection between convex superquadric surfaces on multibody dynamics",
+  "ano": 2009,
+  "tipo": "journal-article",
+  "revista": "Proceedings of the multibody dynamics",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Contact detection of convex superquadrics using optimization techniques with graphical user interface",
+  "ano": 2009,
+  "tipo": "conference-paper",
+  "revista": "Proceedings of the 7th EUROMECH Solid Mechanics Conference, Lisboa, Portugal",
+  "doi": "",
+  "url": ""
+ }
+]

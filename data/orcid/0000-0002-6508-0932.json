@@ -1,0 +1,930 @@
+[
+ {
+  "titulo": "Email Scanner – A Machine Learning Approach to Staffing/Non-Staffing Automatic Classification",
+  "ano": 2027,
+  "tipo": "book-chapter",
+  "revista": "",
+  "doi": "10.1007/978-3-032-30518-3_10",
+  "url": "https://doi.org/10.1007/978-3-032-30518-3_10"
+ },
+ {
+  "titulo": "[CI.52] Improving Neural Architecture Search Models with Evolutionary Algorithms",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Innovative Perspectives on Computational Intelligence and Data Science, INNOComp2026",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.53] A Prototype for Near-real-time Alarmistics with Machine Learning Techniques",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Innovative Perspectives on Computational Intelligence and Data Science, INNOComp2026",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.51] Artificial Intelligence Driven Emotion-Aware Public Speaking Coach",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Computer-Human Interaction Research and Applications, CHIRA2026",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.31] Improving Deep Learning Models with Evolutionary Algorithms",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.32] Análise, Explicação e Recomendações de Incidentes de Cibersegurança: Uma Abordagem com dois Agentes",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.33] Dinis Dias, Nuno Leite e Artur Ferreira, “A Friendly Personal Digital Assistant with Large Language Models”",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.50] BEAT: An Integrated Algo Trading System for Optimizing Battery Energy Storage in Multi-Market Power Systems",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2026",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.49] Text and Speech Emotion Recognition for Human–Computer Interaction",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Human-Computer Interaction (HCI)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Artificial Intelligence Driven Emotion-Aware Public Speaking Coach",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Computer-Human Interaction Research and Applications (CHIRA)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.47] Assessing Driving Style from Telematics Data using Unsupervised Clustering Techniques",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "IRTAD International Conference",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.46] Forecasting Electricity Prices and aFRR Activations for BESS Algorithmic Trading Using a Deep Learning Temporal Fusion Transformer Technique",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "3rd AP SDEWES Conference, SDEWES.AP 2026",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.45] Facial Emotion Recognition: a comparative study with cross-corpus and multi-corpus training",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Assessing Dimensionality Reduction on Driving Range Estimation",
+  "ano": 2026,
+  "tipo": "journal-article",
+  "revista": "Lecture Notes in Computer Science",
+  "doi": "10.1007/978-3-031-99565-1_24",
+  "url": "https://publons.com/wos-op/publon/77246592/"
+ },
+ {
+  "titulo": "Assessing Driving Style with a Two-Stage Clustering Approach",
+  "ano": 2026,
+  "tipo": "book-chapter",
+  "revista": "",
+  "doi": "10.1007/978-3-032-15638-9_36",
+  "url": "https://doi.org/10.1007/978-3-032-15638-9_36"
+ },
+ {
+  "titulo": "Drowsiness Detection with Time-Series Classification Using HRV Features",
+  "ano": 2026,
+  "tipo": "book-chapter",
+  "revista": "",
+  "doi": "10.1007/978-3-032-15638-9_34",
+  "url": "https://doi.org/10.1007/978-3-032-15638-9_34"
+ },
+ {
+  "titulo": "Machine Learning in Liquid Foams: A Survey",
+  "ano": 2026,
+  "tipo": "preprint",
+  "revista": "",
+  "doi": "10.2139/ssrn.6862789",
+  "url": "https://doi.org/10.2139/ssrn.6862789"
+ },
+ {
+  "titulo": "Text and Speech Emotion Recognition for Human–Computer Interaction",
+  "ano": 2026,
+  "tipo": "book-chapter",
+  "revista": "",
+  "doi": "10.1007/978-3-032-29653-5_12",
+  "url": "https://doi.org/10.1007/978-3-032-29653-5_12"
+ },
+ {
+  "titulo": "Using Explainability Techniques for Alzheimer Disease and Cancer Detection",
+  "ano": 2026,
+  "tipo": "book-chapter",
+  "revista": "",
+  "doi": "10.1007/978-3-032-22633-4_8",
+  "url": "https://doi.org/10.1007/978-3-032-22633-4_8"
+ },
+ {
+  "titulo": "[CL.6] On the Use of Union and Intersection for K-fold Feature Selection",
+  "ano": 2026,
+  "tipo": "book-chapter",
+  "revista": "Lecture Notes in Computer Science",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.28] User Emotion Recognition from Speech and Text Messages with Machine Learning Techniques",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.29] Bitcoin Fraud Detection - An Approach with Dimensionality Reduction and Machine Learning",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.30] On the Development of a Tool for Generating Course Schedules with Constraints",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.43] Drowsiness Detection with Time-Series Classification Using HRV Features",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "International Conference  on Neural Computation Theory and Applications, (NCTA)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.42] Assessing Driving Style from Telematics Data with a Two-Stage Clustering Approach",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "International Conference  on Neural Computation Theory and Applications, (NCTA)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.44] Battery Energy Algo Trading to Optimize Operational Net Revenues in the Day-Ahead and Automatic Frequency Restoration Reserve Markets",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Conference on Sustainable Development of Energy, Water and Environment Systems, SDEWES2025",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.27] A Modular Digital Assistant for Windows with Large Language Models",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.25] Assessing Driver Style and Driver Volatility with Machine Learning",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.26] A Personal Digital Assistant Enhanced with Artificial Intelligence Techniques",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.40] Bitcoin Fraud Detection: A Study with Dimensionality Reduction and Machine Learning Techniques",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Data Science, Technology and Applications",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.41] Assessing Dimensionality Reduction on Driving Range Estimation",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.39] Union and Intersection K-fold Feature Selection",
+  "ano": 2025,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.38] Trends in COVID-19 Patient Characteristics and Mortality Throughout the Pandemic: Insights from a Portuguese Single-Centre Study",
+  "ano": 2024,
+  "tipo": "conference-paper",
+  "revista": "4th ROME International Conference on Challenges in Engineering, Medical, Economics and Education: Research & Solutions (CEMEERS24b)",
+  "doi": "10.17758/eares19.eap1224118",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.37] Prediction of Alzheimer disease on the DARWIN dataset with dimensionality reduction and explainability techniques",
+  "ano": 2024,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Explainable AI for Neural and Symbolic Methods (EXPLAINS)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.14] A comparison between Shannon's,  Renyi's, and Tsallis Mutual Information for Feature Selection",
+  "ano": 2024,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern  Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.24] Electric Vehicle Driving Range Prediction with Neural Networks",
+  "ano": 2024,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.23] Prediction of Alzheimer disease from handwriting tasks with explainability techniques",
+  "ano": 2024,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.36] A Mutual Information Based Discretization-Selection Technique",
+  "ano": 2024,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "10.5220/0012467300003654",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.11] An Interactive Dashboard for Statistical Analysis of Intensive Care Unit COVID-19 Data",
+  "ano": 2024,
+  "tipo": "journal-article",
+  "revista": "BioMedInformatics",
+  "doi": "10.3390/biomedinformatics4010026",
+  "url": "https://doi.org/10.3390/biomedinformatics4010026"
+ },
+ {
+  "titulo": "[RI.10] Explainable Machine Learning for Malware Detection on Android Applications",
+  "ano": 2024,
+  "tipo": "journal-article",
+  "revista": "Information",
+  "doi": "10.3390/info15010025",
+  "url": "https://doi.org/10.3390/info15010025"
+ },
+ {
+  "titulo": "[CN.21] A study on the role of feature selection for malware detection on Android applications",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.22] An interactive dashboard for statistical analysis of COVID-19 data for PREMO project",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.20] On the use of machine learning techniques to detect malware in mobile applications",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.8] A Machine Learning Pipeline for Cancer Detection on Microarray Data: The Role of Feature Discretization and Feature Selection",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "BioMedInformatics",
+  "doi": "10.3390/biomedinformatics3030040",
+  "url": "https://doi.org/10.3390/biomedinformatics3030040"
+ },
+ {
+  "titulo": "[CI.34] Building a Dataset for Trip Style Assessment Based on Real Trip Data",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Data Science, Technology and Applications (DATA)",
+  "doi": "10.5220/0012079400003541",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.35] Union k-Fold Feature Selection on Microarray Data",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Data Science, Technology and Applications (DATA)",
+  "doi": "10.5220/0012135800003541",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.32] Estimating Electric Vehicle Driving Range with Machine Learning",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.33] Leveraging Explainability with K-Fold Feature Selection",
+  "ano": 2023,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.9] An Approach to Estimate Electric Vehicle Remaining Driving Distance",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "i-ETC: ISEL Academic Journal of Electronics, Telecommunications and Computers",
+  "doi": "10.34629/ipl.isel.i-etc.102",
+  "url": "https://doi.org/10.34629/ipl.isel.i-ETC.102"
+ },
+ {
+  "titulo": "[CN.18] Electric Vehicle Driving Range Prediction: an Approach with Machine Learning",
+  "ano": 2022,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.19] Finding Driver Styles on Driver Behavior Data with Unsupervised Learning",
+  "ano": 2022,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern  Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.17] Explaining Cancer Detection on Microarray Data: a Machine Learning Approach",
+  "ano": 2022,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.31] A Step Towards the Explainability of Microarray Data for Cancer Diagnosis with Machine Learning Techniques",
+  "ano": 2022,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "10.5220/0010980100003122",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.7] A CardioWheel-based Fatigue and Drowsiness Detection System",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "i-ETC: ISEL Academic Journal of Electronics, Telecommunications and Computers",
+  "doi": "10.34629/ipl.isel.i-etc.85",
+  "url": "https://doi.org/10.34629/ipl.isel.i-ETC.85"
+ },
+ {
+  "titulo": "[CN.15] Classification of Not Suitable for Work Images: A Deep Learning Approach for Arquivo.pt",
+  "ano": 2021,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.30] On the Improvement of Feature Selection Techniques: The Fitness Filter",
+  "ano": 2021,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "10.5220/0010396303650372",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.16] Increasing Road Safety with Machine Learning - A Fatigue and Drowsiness Detection System",
+  "ano": 2020,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.6] A deep learning approach to identify not suitable for work images",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "i-ETC: ISEL Academic Journal of Electronics, Telecommunications and Computers",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/12354"
+ },
+ {
+  "titulo": "[CI.29]  A study on compression techniques for off-the-person electrocardiogram signals",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "IEEE Portuguese Meeting in BioEngineering (ENBENG)",
+  "doi": "10.1109/enbeng.2019.8692467",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.27] Examination Timetabling  Automation using Hybrid Metaheuristics",
+  "ano": 2016,
+  "tipo": "conference-paper",
+  "revista": "Conference on Electronics, Telecommunications and Computers (CETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.28] Fingerprint Recognition System With Hardware Acceleration",
+  "ano": 2016,
+  "tipo": "conference-paper",
+  "revista": "Conference on Electronics, Telecommunications and Computers (CETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.26] Exploiting the bin-class histograms for feature selection on discrete data",
+  "ano": 2015,
+  "tipo": "conference-paper",
+  "revista": "",
+  "doi": "10.1007/978-3-319-19390-8_39",
+  "url": ""
+ },
+ {
+  "titulo": "[CL.5] Feature discretization with relevance and mutual information criteria",
+  "ano": 2015,
+  "tipo": "book-chapter",
+  "revista": "Pattern Recognition Applications and Methods, Advances in Intelligent Systems and Computing",
+  "doi": "10.1007/978-3-319-12610-4_7",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84914150478&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[CN.13] Efficient Supervised Relevance Criteria Tailored to Discrete Features",
+  "ano": 2014,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[D.2] Feature Selection and Discretization for High-Dimensional Data",
+  "ano": 2014,
+  "tipo": "dissertation-thesis",
+  "revista": "Universidade de Lisboa",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.23] Guide Me - A Tourist Guide with a Recommender System and Social Interaction",
+  "ano": 2014,
+  "tipo": "journal-article",
+  "revista": "Procedia Technology",
+  "doi": "10.1016/j.protcy.2014.10.248",
+  "url": "https://publons.com/publon/31413953/"
+ },
+ {
+  "titulo": "[CI.25] Enhancing Multimodal Silent Speech Interfaces With Feature Selection",
+  "ano": 2014,
+  "tipo": "conference-paper",
+  "revista": "InterSpeech",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.5] Incremental filter and wrapper approaches for feature discretization",
+  "ano": 2014,
+  "tipo": "journal-article",
+  "revista": "Neurocomputing",
+  "doi": "10.1016/j.neucom.2012.10.036",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84885845253&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[CI.24] Characterization of Combustion Chemiluminescence: an Image Processing Approach",
+  "ano": 2013,
+  "tipo": "conference-paper",
+  "revista": "Conference on Electronics, Telecommunications and Computers (CETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.12] Supervised Feature Discretization  with a Dynamic Bit-Allocation Strategy",
+  "ano": 2013,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.22] An incremental bit allocation strategy for supervised feature discretization",
+  "ano": 2013,
+  "tipo": "conference-paper",
+  "revista": "Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)",
+  "doi": "10.1007/978-3-642-38628-2_62",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.21] Relevance and mutual information-based feature discretization",
+  "ano": 2013,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[EAC.4] CETC2013 conference on electronics, telecommunications and computers",
+  "ano": 2013,
+  "tipo": "book",
+  "revista": "ISEL - Instituto Superior de Engenharia de Lisboa",
+  "doi": "",
+  "url": "http://hdl.handle.net/10400.21/6676"
+ },
+ {
+  "titulo": "[CI.20] Automatic foldering of email messages:a combination approach",
+  "ano": 2012,
+  "tipo": "conference-paper",
+  "revista": "European Conference on Information Retrieval (ECIR)",
+  "doi": "10.1007/978-3-642-28997-2_20",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.10] Supervised Feature Discretization by Mutual Information Maximization",
+  "ano": 2012,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.11] A Relevance-based Linde-Buzo-Gray  Approach for Supervised Feature Discretization",
+  "ano": 2012,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.19] Prognostic prediction using clinical expression time series: Towards a supervised learning approach based on meta-biclusters",
+  "ano": 2012,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Practical Applications of Computational Biology & Bioinformatics (PACBB)",
+  "doi": "10.1007/978-3-642-28839-5_2",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.18] A dynamic wrapper method for feature discretization and selection",
+  "ano": 2012,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Pattern Recognition Applications and Methods (ICPRAM)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CL.4] Boosting algorithms: A review of methods, theory, and applications",
+  "ano": 2012,
+  "tipo": "book-chapter",
+  "revista": "Ensemble Machine Learning: Methods and Applications",
+  "doi": "10.1007/978-1-4419-9326-7_2",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84897432176&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[RI.2] An unsupervised approach to feature discretization and selection",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Elsevier - Pattern Recognition Journal",
+  "doi": "10.1016/j.patcog.2011.12.008",
+  "url": "http://hdl.handle.net/10400.21/5074"
+ },
+ {
+  "titulo": "[RI.3] Efficient feature selection filters for high-dimensional data",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Elsevier - Pattern Recognition Letters",
+  "doi": "10.1016/j.patrec.2012.05.019",
+  "url": "http://hdl.handle.net/10400.21/5081"
+ },
+ {
+  "titulo": "[RI.4] Towards a classification approach using meta-biclustering: impact of discretization in the analysis of expression time series.",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Journal of integrative bioinformatics",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875027675&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[CN.7] Compressed learning for text categorization",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "Conference on Electronics, Telecommunications and Computers (CETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.8] Lempel-Ziv sliding window update with suffix arrays",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "Conference on Electronics, Telecommunications and Computers (CETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.9] Automatic Email Foldering with Supervised Learning - Addressing the Class Imbalance Problem",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "Conference on Electronics, Telecommunications and Computers (CETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.13] Unsupervised feature selection for sparse data",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "European Symposium on Artificial Neural Networks, Computational Intelligence  and Machine Learning (ESANN)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.16] A pedagogical passive RADAR using DVB-S signals",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "Asia-Pacific Conference on Synthetic Aperture Radar  (APSAR)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.6] Feature Selection and Discretization  for Microarray and Other Biological Data",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "Simpósio em Informática (INForum)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.15] Unsupervised joint feature discretization and selection",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)",
+  "doi": "10.1007/978-3-642-21257-4_25",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.12] Sliding window update using suffix arrays",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "IEEE Data Compression Conference (DCC)",
+  "doi": "10.1109/dcc.2011.60",
+  "url": ""
+ },
+ {
+  "titulo": "[CL.3] Echo Cancellation for Hands-Free Systems",
+  "ano": 2011,
+  "tipo": "book-chapter",
+  "revista": "Adaptive Filtering - InTech - Open Access Publisher",
+  "doi": "10.5772/19238",
+  "url": "https://doi.org/10.5772/19238"
+ },
+ {
+  "titulo": "[CI.14] Efficient unsupervised feature selection for sparse data",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "European Conference of Computer as a Tool (EuroCon)",
+  "doi": "10.1109/eurocon.2011.5929185",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.17] Feature discretization and selection in microarray data",
+  "ano": 2011,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Knowledge Discovery and Information Retrieval (IC3K-KDIR)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CL.3] Echo Cancellation for Hands-Free Systems",
+  "ano": 2011,
+  "tipo": "book-chapter",
+  "revista": "Adaptive Filtering",
+  "doi": "",
+  "url": "https://www.intechopen.com/chapters/17795"
+ },
+ {
+  "titulo": "[CI.11] Feature transformation and reduction for text classification",
+  "ano": 2010,
+  "tipo": "conference-paper",
+  "revista": "International Workshop on Pattern Recognition in Information Systems (PRIS)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.4] Text Classification: A Compressed Learning Approach",
+  "ano": 2010,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.5] A Technique for Unsupervised Feature Discretization and Selection",
+  "ano": 2010,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Optimization of a FBG-based filtering module for a 40 Gb/s OSSB transmission system",
+  "ano": 2010,
+  "tipo": "journal-article",
+  "revista": "Optica Applicata",
+  "doi": "",
+  "url": "https://publons.com/wos-op/publon/6679716/"
+ },
+ {
+  "titulo": "[CL.2] Tuning iris recognition for noisy images",
+  "ano": 2010,
+  "tipo": "book-chapter",
+  "revista": "BIOSTEC 2009, Communications in Computer and Information Science (CCIS)",
+  "doi": "10.1007/978-3-642-11721-3_16",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-77950344914&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[CN.3] An Experiment on Feature Selection for Sparse Data",
+  "ano": 2009,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.10] On the use of suffix arrays for memory-efficient Lempel-Ziv data compression",
+  "ano": 2009,
+  "tipo": "conference-paper",
+  "revista": "IEEE - Data Compression Conference (DCC)",
+  "doi": "10.1109/dcc.2009.50",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.9] Modifications and Improvements on Iris Recognition",
+  "ano": 2009,
+  "tipo": "conference-paper",
+  "revista": "International Joint Conference on Biomedical Systems and Technologies (BIOSTEC-BIOSIGNALS)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Time and Memory Efficient Lempel-Ziv Compression Using Suffix Arrays",
+  "ano": 2009,
+  "tipo": "journal-article",
+  "revista": "ArXiv",
+  "doi": "",
+  "url": "https://publons.com/wos-op/publon/66290372/"
+ },
+ {
+  "titulo": "[CL.1] On the suitability of suffix arrays for Lempel-Ziv data compression",
+  "ano": 2009,
+  "tipo": "book-chapter",
+  "revista": "ICETE 2008, Communications in Computer and Information Science (CCIS)",
+  "doi": "10.1007/978-3-642-05197-5_19",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-73349140178&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[CI.8] An efficient long distance echo canceller",
+  "ano": 2008,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Signals  and Electronic Systems (ICSES)",
+  "doi": "10.1109/icses.2008.4673429",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.7] Suffix Arrays: a competitive choice for fast Lempel-Ziv Compression",
+  "ano": 2008,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Security and Cryptography (ICSC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.5] Long Distance Real-Time Echo Cancellation",
+  "ano": 2007,
+  "tipo": "conference-paper",
+  "revista": "Conference on Telecommunications (ConfTele)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.6] Boosting of (Very) Weak Learners",
+  "ano": 2007,
+  "tipo": "conference-paper",
+  "revista": "",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.4] Hybrid Generative/Discriminative Training of Radial Basis Function Networks",
+  "ano": 2006,
+  "tipo": "conference-paper",
+  "revista": "European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[RI.1] On the use of independent component analysis for image compression",
+  "ano": 2006,
+  "tipo": "journal-article",
+  "revista": "Signal Processing: Image Communication",
+  "doi": "10.1016/j.image.2006.01.002",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-33646508766&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "[CN.2] A Global Training Algorithm for Radial Basis Functions Neural Networks",
+  "ano": 2005,
+  "tipo": "conference-paper",
+  "revista": "Jornadas de Engenharia de Telecomunicações e de Computadores (JETC)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.3] Image compression using orthogonalized independent components bases",
+  "ano": 2003,
+  "tipo": "conference-paper",
+  "revista": "IEEE Neural Networks for Signal Processing (NNSP)",
+  "doi": "10.1109/nnsp.2003.1318068",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.1] Coding images of specific classes using independent component analysis",
+  "ano": 2003,
+  "tipo": "conference-paper",
+  "revista": "Conference on Telecommunications (ConfTele)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[D.1] Aplicação da Análise em Componentes Independentes na Compressão de Imagem",
+  "ano": 2003,
+  "tipo": "dissertation-thesis",
+  "revista": "Universidade de Lisboa",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CI.2] Class-adapted image compression using independent component analysis",
+  "ano": 2003,
+  "tipo": "conference-paper",
+  "revista": "IEEE International Conference on Image Processing (ICIP)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.1] Hierarquia de Classes para Suporte da Compressão de Dados",
+  "ano": 1999,
+  "tipo": "conference-paper",
+  "revista": "Jornadas de Engenharia de Telecomunicações e de Computadores (JETC)",
+  "doi": "",
+  "url": ""
+ }
+]
