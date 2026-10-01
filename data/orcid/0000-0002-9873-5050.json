@@ -1,0 +1,178 @@
+[
+ {
+  "titulo": "Supervision System 4.0 for a Road Tanker Washing Robot Manipulator",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "Applied Sciences",
+  "doi": "10.3390/app13148500",
+  "url": "http://dx.doi.org/10.3390/app13148500"
+ },
+ {
+  "titulo": "Automatic Control System for an Oil-Hydraulic Actuator of a Scissor Lift",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "Global Journal of Engineering Sciences",
+  "doi": "",
+  "url": "https://irispublishers.com/gjes/pdf/GJES.MS.ID.000736.pdf"
+ },
+ {
+  "titulo": "Automatic Control System for an Oil-Hydraulic Actuator of a Scissor Lift",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "Global Journal of Engineering Sciences",
+  "doi": "",
+  "url": "https://irispublishers.com/gjes/pdf/GJES.MS.ID.000736.pdf"
+ },
+ {
+  "titulo": "A Photorealistic Digital Twin for a Tank Truck Washing Robotic System",
+  "ano": 2022,
+  "tipo": "book-chapter",
+  "revista": "Collaborative Networks in Digitalization and Society 5.0",
+  "doi": "10.1007/978-3-031-14844-6_5",
+  "url": "http://dx.doi.org/10.1007/978-3-031-14844-6_5"
+ },
+ {
+  "titulo": "Industrial Collaborative Robotics Platform",
+  "ano": 2021,
+  "tipo": "book-chapter",
+  "revista": "IFIP Advances in Information and Communication Technology",
+  "doi": "10.1007/978-3-030-85969-5_53",
+  "url": "http://dx.doi.org/10.1007/978-3-030-85969-5_53"
+ },
+ {
+  "titulo": "A gantry robot automatic positioning system using computational vision",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "1st Iberic Conference on Theoretical and Experimental Mechanics and Materials/11th National Congress on Experimental Mechanics",
+  "doi": "",
+  "url": "https://paginas.fe.up.pt/~tem2/Proceedings_TEMM2018/data/papers/7451.pdf"
+ },
+ {
+  "titulo": "A gantry robot automatic positioning system using computational vision",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "1st Iberic Conference on Theoretical and Experimental Mechanics and Materials  &  11th National Congress on Experimental Mechanics",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Navigation System for Mobile Robots Using PCA-Based Localization from Ceiling Depth Images: Experimental Validation",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "2018 13th APCA International Conference on Control and Soft Computing (CONTROLO)",
+  "doi": "10.1109/controlo.2018.8514298",
+  "url": "http://dx.doi.org/10.1109/controlo.2018.8514298"
+ },
+ {
+  "titulo": "Finding a short path for mobile robot arm coverage of a point set",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "2018 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)",
+  "doi": "10.1109/icarsc.2018.8374182",
+  "url": "http://dx.doi.org/10.1109/icarsc.2018.8374182"
+ },
+ {
+  "titulo": "Design and experimental validation of a PCA-based 2D localization system for mobile robots in unstructured environments",
+  "ano": 2018,
+  "tipo": "dissertation-thesis",
+  "revista": "",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "A complete frontier-based exploration method for Pose-SLAM",
+  "ano": 2017,
+  "tipo": "conference-paper",
+  "revista": "2017 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)",
+  "doi": "10.1109/icarsc.2017.7964056",
+  "url": "http://dx.doi.org/10.1109/icarsc.2017.7964056"
+ },
+ {
+  "titulo": "Enhanced PCA-Based Localization Using Depth Maps with Missing Data",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Journal of Intelligent & Robotic Systems",
+  "doi": "10.1007/s10846-013-0013-6",
+  "url": "http://dx.doi.org/10.1007/s10846-013-0013-6"
+ },
+ {
+  "titulo": "Complementary filter design with three frequency bands: robot attitude estimation",
+  "ano": 2015,
+  "tipo": "conference-paper",
+  "revista": "",
+  "doi": "10.1109/icarsc.2015.33",
+  "url": ""
+ },
+ {
+  "titulo": "A Bayesian grid method PCA-based for mobile robots localization in unstructured environments",
+  "ano": 2013,
+  "tipo": "conference-paper",
+  "revista": "2013 16th International Conference on Advanced Robotics (ICAR)",
+  "doi": "10.1109/icar.2013.6766487",
+  "url": "http://dx.doi.org/10.1109/icar.2013.6766487"
+ },
+ {
+  "titulo": "Experimental validation of a visual odometry system for indoor unstructured environments",
+  "ano": 2013,
+  "tipo": "conference-paper",
+  "revista": "2013 16th International Conference on Advanced Robotics (ICAR)",
+  "doi": "10.1109/icar.2013.6766496",
+  "url": "http://dx.doi.org/10.1109/icar.2013.6766496"
+ },
+ {
+  "titulo": "2D PCA-based localization for mobile robots in unstructured environments",
+  "ano": 2012,
+  "tipo": "conference-paper",
+  "revista": "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+  "doi": "10.1109/iros.2012.6386272",
+  "url": "http://dx.doi.org/10.1109/iros.2012.6386272"
+ },
+ {
+  "titulo": "Exploiting the FAMOUSO middleware in multi-robot application development with Matlab/Simulink",
+  "ano": 2008,
+  "tipo": "conference-paper",
+  "revista": "Proceedings of the ACM/IFIP/USENIX Middleware '08 Conference Companion",
+  "doi": "10.1145/1462735.1462753",
+  "url": "http://dx.doi.org/10.1145/1462735.1462753"
+ },
+ {
+  "titulo": "Sentient Objects for Designing and Controlling Service Robots",
+  "ano": 2008,
+  "tipo": "journal-article",
+  "revista": "IFAC Proceedings Volumes",
+  "doi": "10.3182/20080706-5-kr-1001.01406",
+  "url": "http://dx.doi.org/10.3182/20080706-5-kr-1001.01406"
+ },
+ {
+  "titulo": "A Fuzzy Controller for a Health Services Mobile Robot",
+  "ano": 2007,
+  "tipo": "conference-paper",
+  "revista": "2007 IEEE International Symposium on Industrial Electronics",
+  "doi": "10.1109/isie.2007.4375142",
+  "url": "http://dx.doi.org/10.1109/isie.2007.4375142"
+ },
+ {
+  "titulo": "Concepção de Robôs Móveis Aplicados aos Serviços de Saúde",
+  "ano": 2007,
+  "tipo": "dissertation-thesis",
+  "revista": "Instituto Superior Técnico Departamento de Engenharia Mecânica",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "i-Merc: A Mobile Robot to Deliver Meals inside Health Services",
+  "ano": 2006,
+  "tipo": "conference-paper",
+  "revista": "2006 IEEE Conference on Robotics, Automation and Mechatronics",
+  "doi": "10.1109/ramech.2006.252651",
+  "url": "http://dx.doi.org/10.1109/ramech.2006.252651"
+ },
+ {
+  "titulo": "Fault Detection Approach Based on Fuzzy Qualitative Reasoning Applied to the DAMADICS Benchmark Problem",
+  "ano": 2003,
+  "tipo": "journal-article",
+  "revista": "IFAC Proceedings Volumes",
+  "doi": "10.1016/s1474-6670(17)36636-3",
+  "url": "http://dx.doi.org/10.1016/s1474-6670(17)36636-3"
+ }
+]

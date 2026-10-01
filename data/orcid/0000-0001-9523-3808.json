@@ -1,0 +1,706 @@
+[
+ {
+  "titulo": "Multi-objective optimisation of sandwich panels for lightweight vibroacoustic performance using the direct multisearch algorithm and sublaminate formulation",
+  "ano": 2026,
+  "tipo": "journal-article",
+  "revista": "Thin-Walled Structures",
+  "doi": "10.1016/j.tws.2026.115144",
+  "url": "https://doi.org/10.1016/j.tws.2026.115144"
+ },
+ {
+  "titulo": "DFO Benchmark Suite: Continuous and Mixed-Variable Test Problems for Derivative-Free Optimization",
+  "ano": 2026,
+  "tipo": "data-set",
+  "revista": "",
+  "doi": "10.5281/zenodo.20782892",
+  "url": ""
+ },
+ {
+  "titulo": "GLODS-SI: Scale-invariant global–local direct search for engineering design optimization",
+  "ano": 2026,
+  "tipo": "journal-article",
+  "revista": "Journal of Computational Design and Engineering",
+  "doi": "10.1093/jcde/qwag049",
+  "url": "https://doi.org/10.1093/jcde/qwag049"
+ },
+ {
+  "titulo": "MOO_Prob_Matlab: Continuous and mixed-variable MATLAB benchmark suites for multiobjective optimization",
+  "ano": 2026,
+  "tipo": "data-set",
+  "revista": "",
+  "doi": "10.5281/zenodo.20783713",
+  "url": ""
+ },
+ {
+  "titulo": "Power, Fatigue &amp; Market Signals: Cost Function Design for Wind Turbine Lifetime Extension",
+  "ano": 2026,
+  "tipo": "journal-article",
+  "revista": "Journal of Physics: Conference Series",
+  "doi": "10.1088/1742-6596/3224/6/062061",
+  "url": "https://doi.org/10.1088/1742-6596/3224/6/062061"
+ },
+ {
+  "titulo": "Sustainable design of train seats using finite element analysis and multiobjective optimization",
+  "ano": 2025,
+  "tipo": "journal-article",
+  "revista": "Mechanics Based Design of Structures and Machines",
+  "doi": "10.1080/15397734.2025.2498103",
+  "url": "https://doi.org/10.1080/15397734.2025.2498103"
+ },
+ {
+  "titulo": "Multimodal optimization of piezoelectric patches number and placement for effective structural vibration reduction",
+  "ano": 2025,
+  "tipo": "journal-article",
+  "revista": "Acta Mechanica",
+  "doi": "10.1007/s00707-025-04351-4",
+  "url": "https://doi.org/10.1007/s00707-025-04351-4"
+ },
+ {
+  "titulo": "Direct MultiSearch optimization of TPMS scaffolds for bone tissue engineering",
+  "ano": 2024,
+  "tipo": "journal-article",
+  "revista": "Computer Methods and Programs in Biomedicine",
+  "doi": "10.1016/j.cmpb.2024.108461",
+  "url": "https://doi.org/10.1016/j.cmpb.2024.108461"
+ },
+ {
+  "titulo": "Optimization of a cruciform specimen for fatigue crack growth under in and out-of-phase in-plane biaxial loading conditions",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "Mechanics of Advanced Materials and Structures",
+  "doi": "10.1080/15376494.2022.2038740",
+  "url": "https://doi.org/10.1080/15376494.2022.2038740"
+ },
+ {
+  "titulo": "Optimal resistive shunted damping configurations for multi-modal noise reduction in sandwich panels",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "Acta Mechanica",
+  "doi": "10.1007/s00707-022-03397-y",
+  "url": "http://dx.doi.org/10.1007/s00707-022-03397-y"
+ },
+ {
+  "titulo": "Noise attenuation in composite laminated structures using SGUF and DMS",
+  "ano": 2022,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Design, Modelling and Experiments of Advanced Structures and Systems",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Thermo-mechanical design optimization of symmetric and non-symmetric sandwich plates with ceramic-metal-ceramic functionally graded core to minimize stress, deformation and mass",
+  "ano": 2021,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2021.114496",
+  "url": "http://dx.doi.org/10.1016/j.compstruct.2021.114496"
+ },
+ {
+  "titulo": "Optimization of a composite impact attenuator for a formula student car",
+  "ano": 2021,
+  "tipo": "journal-article",
+  "revista": "Mechanics of Advanced Materials and Structures",
+  "doi": "10.1080/15376494.2020.1712627",
+  "url": "http://dx.doi.org/10.1080/15376494.2020.1712627"
+ },
+ {
+  "titulo": "Optimal shunted damping configurations for noise reduction in laminated composite sandwich panels - Multi-modal damping",
+  "ano": 2021,
+  "tipo": "conference-paper",
+  "revista": "25th International Conference on Composite of Structures",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Optimal shunted damping treatments for noise reduction in composite sandwich panels",
+  "ano": 2021,
+  "tipo": "conference-paper",
+  "revista": "1st International Conference on Computations for Science and Engineering",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "MECHCOMP7 - 7th International Conference of on Mechanics of Composites - e-BOOK Proceedings-",
+  "ano": 2021,
+  "tipo": "edited-book",
+  "revista": "",
+  "doi": "",
+  "url": "https://intra.idmec.tecnico.ulisboa.pt/ficheiros/publicacoes/3465.pdf"
+ },
+ {
+  "titulo": "Environmental and economic optimisation of buildings for different climates",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "IOP Conference Series: Earth and Environmental Science",
+  "doi": "10.1088/1755-1315/588/3/032033",
+  "url": "http://dx.doi.org/10.1088/1755-1315/588/3/032033"
+ },
+ {
+  "titulo": "Multiobjective optimization solutions for noise reduction in composite sandwich panels using active control",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2020.112440",
+  "url": "http://dx.doi.org/10.1016/j.compstruct.2020.112440"
+ },
+ {
+  "titulo": "Design optimization of functionally graded plates under thermo-mechanical loadings to minimize stress, deformation and mass",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2020.112360",
+  "url": "http://dx.doi.org/10.1016/j.compstruct.2020.112360"
+ },
+ {
+  "titulo": "Multiobjective optimization for vibration reduction in composite plate structures using constrained layer damping",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "Computers and Structures",
+  "doi": "10.1016/j.compstruc.2017.07.012",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85026536375&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimal distribution of active piezoelectric elements for noise attenuation in sandwich panels",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "International Journal of Smart and Nano Materials",
+  "doi": "10.1080/19475411.2020.1829159",
+  "url": ""
+ },
+ {
+  "titulo": "Optimal passive shunted damping configurations for noise reduction in sandwich panels",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "Journal of Vibration and Control",
+  "doi": "10.1177/1077546320910542",
+  "url": "https://doi.org/10.1177/1077546320910542"
+ },
+ {
+  "titulo": "Optimization of a thin-walled composite crash absorber",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "Thin-Walled Structures",
+  "doi": "10.1016/j.tws.2020.106826",
+  "url": "http://www.sciencedirect.com/science/article/pii/S0263823120307047"
+ },
+ {
+  "titulo": "Multiobjective and global optimization with directional direct search",
+  "ano": 2019,
+  "tipo": "dissertation-thesis",
+  "revista": "Universidade de Lisboa Instituto Superior Técnico",
+  "doi": "",
+  "url": "https://www.ulisboa.pt/prova-academica/multiobjective-and-global-optimization-directional-direct-search"
+ },
+ {
+  "titulo": "Application of Multiobjective Optimization Based on Differences of Modal Displacements and Modal Rotations for Damage Quantification in Beams",
+  "ano": 2019,
+  "tipo": "book-chapter",
+  "revista": "",
+  "doi": "10.1007/978-3-319-97773-7_87",
+  "url": "https://doi.org/10.1007/978-3-319-97773-7_87"
+ },
+ {
+  "titulo": "Book of Abstracts of MECHCOMP 2019 5th International Conference on Mechanics of Composites",
+  "ano": 2019,
+  "tipo": "edited-book",
+  "revista": "",
+  "doi": "",
+  "url": "https://intra.idmec.tecnico.ulisboa.pt/ficheiros/publicacoes/2314.pdf"
+ },
+ {
+  "titulo": "Characterization and optimization of hybrid carbon–glass epoxy composites under combined loading",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "Journal of Composite Materials",
+  "doi": "10.1177/0021998319834673",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85062685177&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Design and multi-objective optimization of a composite impact attenuator for a formula student car",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "Advances in Engineering Materials, Structures and Systems: Innovations, Mechanics and Applications - Proceedings of the 7th International Conference on Structural Engineering, Mechanics and Computation, 2019",
+  "doi": "10.1201/9780429426506-88",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85079208365&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "EngOpt 2018 Proceedings of the 6th International Conference on Engineering Optimization",
+  "ano": 2019,
+  "tipo": "edited-book",
+  "revista": "Springer International Publishing",
+  "doi": "10.1007/978-3-319-97773-7",
+  "url": "http://dx.doi.org/10.1007/978-3-319-97773-7"
+ },
+ {
+  "titulo": "Limiting performance analisys of a head protection helmet using multicriteria control optimization",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "6th IEEE Portuguese Meeting on Bioengineering, ENBENG 2019 - Proceedings",
+  "doi": "10.1109/enbeng.2019.8692540",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85065499898&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multi-objective optimization of pultruded composite sandwich panels for building floor rehabilitation",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "Construction and Building Materials",
+  "doi": "10.1016/j.conbuildmat.2018.11.259",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85057890379&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization of functionally graded material plates with thermo-mechanical loading",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2018.09.098",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85054193260&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimal location of active piezoelectric sensors and actuators for noise reduction in composite sandwich panels",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "Advances in Engineering Materials, Structures and Systems: Innovations, Mechanics and Applications - Proceedings of the 7th International Conference on Structural Engineering, Mechanics and Computation, 2019",
+  "doi": "10.1201/9780429426506-82",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85079234911&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimization of piezoelectric patches with passive shunted damping for noise reduction in sandwich panels",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "9th ECCOMAS Thematic Conference on Smart Structures and Materials, SMART 2019",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85076630063&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Laminate composite magnetoelectric multiferroics optimized by global derivative-free optimization method",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "Computational Materials Science",
+  "doi": "10.1016/j.commatsci.2018.02.045",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85042509410&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multi-objective optimization of a composite sandwich panel floor system for building rehabilitation",
+  "ano": 2018,
+  "tipo": "conference-paper",
+  "revista": "9th International Conference on Fibre-Reinforced Polymer (FRP) Composites in Civil Engineering, CICE 2018",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85077602349&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "MultiGLODS: global and local multiobjective optimization using direct search",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "Journal of Global Optimization",
+  "doi": "10.1007/s10898-018-0618-1",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85042181522&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization of ceramic-metal functionally graded plates using a higher order model",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2017.02.013",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85012866735&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimal multiobjective design of a vehicle restraint system using pre-acting control: A limiting performance analysis",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "Multidiscipline Modeling in Materials and Structures",
+  "doi": "10.1108/mmms-09-2017-0100",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85048361328&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "RBF-FD meshless optimization using direct search (GLODS) in the analysis of composite plates",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "Engineering Analysis with Boundary Elements",
+  "doi": "10.1016/j.enganabound.2017.10.019",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85034854179&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Active vibration attenuation in viscoelastic laminated composite panels using multiobjective optimization",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "Composites Part B: Engineering",
+  "doi": "10.1016/j.compositesb.2017.07.002",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85023643889&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Design of a composite crash box for a Formula Student team car: preliminary testing and model tuning",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "International Journal of Automotive Composites",
+  "doi": "10.1504/ijautoc.2017.091419",
+  "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJAUTOC.2017.091419"
+ },
+ {
+  "titulo": "Multiobjective design optimization of laminated composite plates with piezoelectric layers",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2016.09.052",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85008656666&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization of constrained layer damping treatments in composite plate structures",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "Mechanics of Advanced Materials and Structures",
+  "doi": "10.1080/15376494.2016.1190427",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84990898331&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimal Cruciform Specimen Design Using the Direct Multi-search Method and Design Variable Influence Study",
+  "ano": 2017,
+  "tipo": "conference-paper",
+  "revista": "Procedia Structural Integrity",
+  "doi": "10.1016/j.prostr.2017.07.037",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85065338635&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimization of fibers orientation in a composite specimen",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "Mechanics of Advanced Materials and Structures",
+  "doi": "10.1080/15376494.2016.1191099",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84994106730&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Rail vehicle design optimization for operation in a mountainous railway track",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "Innovative Infrastructure Solutions",
+  "doi": "10.1007/s41062-017-0088-1",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85051576993&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization for vibration reduction in composite plate structures using constrained layer damping",
+  "ano": 2016,
+  "tipo": "conference-paper",
+  "revista": "Insights and Innovations in Structural Engineering, Mechanics and Computation - Proceedings of the 6th International Conference on Structural Engineering, Mechanics and Computation, SEMC 2016",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85013059241&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Numerical study of fatigue crack initiation and propagation on optimally designed cruciform specimens",
+  "ano": 2016,
+  "tipo": "conference-paper",
+  "revista": "Procedia Structural Integrity",
+  "doi": "10.1016/j.prostr.2016.02.014",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85035084303&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Numerical study of in-plane biaxial fatigue crack growth with different phase shift angle loadings on optimal specimen geometries",
+  "ano": 2016,
+  "tipo": "journal-article",
+  "revista": "Theoretical and Applied Fracture Mechanics",
+  "doi": "10.1016/j.tafmec.2016.08.025",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84991228405&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimization of a wind powered desalination and pumped hydro storage system",
+  "ano": 2016,
+  "tipo": "journal-article",
+  "revista": "Applied Energy",
+  "doi": "10.1016/j.apenergy.2016.05.125",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84971392990&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Railway vehicle performance optimisation using virtual homologation",
+  "ano": 2016,
+  "tipo": "journal-article",
+  "revista": "Vehicle System Dynamics",
+  "doi": "10.1080/00423114.2016.1196821",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84975159477&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Book of Abstracts 10th International Conference on Composite Science and Technology",
+  "ano": 2015,
+  "tipo": "edited-book",
+  "revista": "IDMEC",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Editorial",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Advances in Engineering Software",
+  "doi": "10.1016/j.advengsoft.2014.11.005",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84926190269&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Editorial",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Computers and Structures",
+  "doi": "10.1016/j.compstruc.2014.11.005",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84912557952&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Engineering Optimization IV – Proceedings of the 4th International Conference on Engineering Optimization",
+  "ano": 2015,
+  "tipo": "edited-book",
+  "revista": "CRC Press/Balkema, Taylor & Fr.",
+  "doi": "",
+  "url": "https://intra.idmec.tecnico.ulisboa.pt/ficheiros/publicacoes/1059.pdf"
+ },
+ {
+  "titulo": "GLODS: Global and Local Optimization using Direct Search",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Journal of Global Optimization",
+  "doi": "10.1007/s10898-014-0224-9",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84938255942&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Materials selection for a set of multiple parts considering manufacturing costs and weight reduction with structural isoperformance using direct multisearch optimization",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Structural and Multidisciplinary Optimization",
+  "doi": "10.1007/s00158-015-1247-7",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84943365061&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective design of viscoelastic laminated composite sandwich panels",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Composites Part B: Engineering",
+  "doi": "10.1016/j.compositesb.2015.03.025",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84926459453&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization for node adaptation in the analysis of composite plates using a meshless collocation method",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Engineering Analysis with Boundary Elements",
+  "doi": "10.1016/j.enganabound.2014.08.006",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84907506152&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization of cold-formed steel columns",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Thin-Walled Structures",
+  "doi": "10.1016/j.tws.2015.07.025",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84938845230&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective optimization of viscoelastic laminated sandwich structures using the Direct MultiSearch method",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Computers and Structures",
+  "doi": "10.1016/j.compstruc.2014.09.009",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84912535929&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimization of cruciform specimens for biaxial fatigue loading with direct multi search",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "Theoretical and Applied Fracture Mechanics",
+  "doi": "10.1016/j.tafmec.2015.06.009",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84946495948&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Book of Abstracts of the 4th International Conference on Engineering Optimization",
+  "ano": 2014,
+  "tipo": "edited-book",
+  "revista": "IDMEC",
+  "doi": "",
+  "url": "https://www.idmec.tecnico.ulisboa.pt/publications/book-of-abstracts-of-the-4th-international-conference-on-engineering-optimization/"
+ },
+ {
+  "titulo": "Design optimization of cruciform specimens for biaxial fatigue loading",
+  "ano": 2014,
+  "tipo": "journal-article",
+  "revista": "Frattura ed Integrita Strutturale",
+  "doi": "10.3221/igf-esis.30.16",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84907981204&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Node adaptation for global collocation with radial basis functions using direct multisearch for multiobjective optimization",
+  "ano": 2014,
+  "tipo": "journal-article",
+  "revista": "Engineering Analysis with Boundary Elements",
+  "doi": "10.1016/j.enganabound.2013.10.012",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84888167334&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Structural optimization of a joined wing aircraft using DMS algorithm",
+  "ano": 2014,
+  "tipo": "conference-paper",
+  "revista": "Engineering Optimization IV - Proceedings of the 4th International Conference on Engineering Optimization, ENGOPT 2014",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84941985204&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Comparison of multi-objective algorithms applied to feature selection",
+  "ano": 2013,
+  "tipo": "book",
+  "revista": "Studies in Fuzziness and Soft Computing",
+  "doi": "10.1007/978-3-642-30278-7_28",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84891689743&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimal design for active damping in sandwich structures using the Direct MultiSearch method",
+  "ano": 2013,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2013.04.044",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84880775634&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Damping optimization of viscoelastic laminated sandwich structures using the direct multisearch method",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Civil-Comp Proceedings",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893926304&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Handling linear constraints in genetic algorithms",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Civil-Comp Proceedings",
+  "doi": "10.4203/ccp.99.59",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893941685&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimization of materials selection in a multi-part environment with direct multi-search",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Civil-Comp Proceedings",
+  "doi": "10.4203/ccp.99.65",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893936924&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Recent Developments in Derivative-Free Multiobjective Optimisation",
+  "ano": 2012,
+  "tipo": "journal-article",
+  "revista": "Computational Technology Reviews",
+  "doi": "10.4203/ctr.5.1",
+  "url": ""
+ },
+ {
+  "titulo": "Direct multisearch for multiobjective optimization",
+  "ano": 2011,
+  "tipo": "journal-article",
+  "revista": "SIAM Journal on Optimization",
+  "doi": "10.1137/10079731x",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-80054721921&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "GA topology optimization using random keys for tree encoding of structures",
+  "ano": 2010,
+  "tipo": "journal-article",
+  "revista": "Structural and Multidisciplinary Optimization",
+  "doi": "10.1007/s00158-008-0353-1",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-72149086423&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Surgical correction of scoliosis: Numerical analysis and optimization of the procedure",
+  "ano": 2010,
+  "tipo": "journal-article",
+  "revista": "International Journal for Numerical Methods in Biomedical Engineering",
+  "doi": "10.1002/cnm.1380",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-77956502474&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Plate eigenfrequency optimization with genetic algorithms and random keys",
+  "ano": 2008,
+  "tipo": "journal-article",
+  "revista": "Civil-Comp Proceedings",
+  "doi": "10.4203/ccp.88.73",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893980460&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multiobjective topology optimization of structures using genetic algorithms with chromosome repairing",
+  "ano": 2006,
+  "tipo": "journal-article",
+  "revista": "Structural and Multidisciplinary Optimization",
+  "doi": "10.1007/s00158-006-0007-0",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-33745303659&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Multi-objective optimization of structures topology by genetic algorithms",
+  "ano": 2005,
+  "tipo": "journal-article",
+  "revista": "Advances in Engineering Software",
+  "doi": "10.1016/j.advengsoft.2003.07.001",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-9644289438&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimização multi-objectivo da topologia de estruturas com algoritmos genéticos",
+  "ano": 2004,
+  "tipo": "dissertation-thesis",
+  "revista": "Universidade de Lisboa Instituto Superior Técnico",
+  "doi": "",
+  "url": "http://purl.pt/6609"
+ },
+ {
+  "titulo": "Genetic Methods in Multi-objective Optimization of Structures with an Equality Constraint on Volume",
+  "ano": 2003,
+  "tipo": "book-chapter",
+  "revista": "Evolutionary Multi-Criterion Optimization",
+  "doi": "10.1007/3-540-36970-8_54",
+  "url": "http://dx.doi.org/10.1007/3-540-36970-8_54"
+ },
+ {
+  "titulo": "Multi-objective topology optimization of structures",
+  "ano": 2002,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Computational Structures Technology - Proceedings",
+  "doi": "",
+  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-0036926483&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Optimization of torsion constant with homogenization",
+  "ano": 1995,
+  "tipo": "dissertation-thesis",
+  "revista": "Universidade de Lisboa Faculdade de Ciências",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "A test set for derivative-free multiobjective optimization (AMPL)",
+  "ano": null,
+  "tipo": "data-set",
+  "revista": "",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "A test set for global optimization (MATLAB)",
+  "ano": null,
+  "tipo": "data-set",
+  "revista": "",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Damping Optimization of Viscoelastic Laminated Sandwich Structures using the Direct Multisearch Method",
+  "ano": null,
+  "tipo": "conference-paper",
+  "revista": "",
+  "doi": "10.4203/ccp.99.64",
+  "url": ""
+ },
+ {
+  "titulo": "Multi-Objective Topology Optimization of Structures",
+  "ano": null,
+  "tipo": "conference-paper",
+  "revista": "",
+  "doi": "10.4203/ccp.75.150",
+  "url": ""
+ },
+ {
+  "titulo": "Structural optimization of a joined wing aircraft using DMS algorithm",
+  "ano": null,
+  "tipo": "journal-article",
+  "revista": "",
+  "doi": "10.1201/b17488-165",
+  "url": "https://publons.com/publon/15375950/"
+ }
+]
