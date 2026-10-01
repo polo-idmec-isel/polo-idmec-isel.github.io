@@ -5,6 +5,9 @@ Só usa a biblioteca padrão do Python.
 
 import json
 import re
+import time
+from collections import Counter
+from itertools import combinations
 import unicodedata
 from html import escape
 from pathlib import Path
@@ -41,7 +44,9 @@ def load_publications(members, cfg):
         for w in json.loads(f.read_text(encoding="utf-8")):
             if not w.get("ano") or w["ano"] < start or w.get("tipo") not in tipos:
                 continue
-            tk = title_key(w["titulo"], w["ano"])
+            # retira códigos internos no início do título, ex. "[CI.49] "
+            w = dict(w, titulo=re.sub(r"^\s*\[[^\]]{1,15}\]\s*", "", w["titulo"]))
+            tk = title_key(w["titulo"], "")
             p = by_doi.get(w["doi"]) if w.get("doi") else None
             p = p or by_title.get(tk)
             if p is None:
@@ -101,12 +106,129 @@ def render_pubs(pubs, members):
         venue = " · ".join(x for x in (e(p.get("revista")), TIPOS.get(p["tipo"], "")) if x)
         who = ", ".join(e(members[i]["nome"]) for i in p["membros"])
         ids = " ".join(str(i) for i in p["membros"])
+        joint = len(p["membros"]) > 1
+        badge = ' <span class="badge">Conjunta</span>' if joint else ""
         out.append(
-            f'<li data-m=" {ids} "><p class="pt">{title}</p>'
-            f'<p class="pv">{venue}</p><p class="pm">{who}</p></li>'
+            f'<li data-m=" {ids} " data-c="{1 if joint else 0}"><p class="pt">{title}</p>'
+            f'<p class="pv">{venue}</p><p class="pm">{who}{badge}</p></li>'
         )
     out.append("</ol></section>")
     return "\n".join(out)
+
+
+def render_collabs(pubs, members):
+    pairs = Counter()
+    for p in pubs:
+        ms = sorted(p["membros"])
+        for a, b in combinations(ms, 2):
+            pairs[(a, b)] += 1
+    if not pairs:
+        return ""
+    rows = "".join(
+        f'<li><span>{e(members[a]["nome"])} · {e(members[b]["nome"])}</span><strong>{n}</strong></li>'
+        for (a, b), n in sorted(pairs.items(), key=lambda kv: (-kv[1], members[kv[0][0]]["nome"]))[:12]
+    )
+    return (
+        '<div class="collab"><h3>Colaborações entre membros</h3>'
+        '<p class="muted">Número de publicações em coautoria, desde o ano indicado acima.</p>'
+        f'<ul>{rows}</ul></div>'
+    )
+
+
+# ---------- projetos ----------
+
+MESES = ["jan.", "fev.", "mar.", "abr.", "mai.", "jun.", "jul.", "ago.", "set.", "out.", "nov.", "dez."]
+TIPOS_PROJ = {"grant": "Projeto", "contract": "Contrato", "award": "Prémio"}
+
+
+def fmt_ym(d):
+    if not d:
+        return ""
+    if "-" in d:
+        y, m = d.split("-")[:2]
+        return f"{MESES[int(m) - 1]} {y}"
+    return d
+
+
+def code_key(c):
+    return re.sub(r"[^a-z0-9]", "", (c or "").lower())
+
+
+def load_projects(members, cfg):
+    today = time.strftime("%Y-%m")
+    tipos = set(cfg.get("tipos_projeto", ["grant", "contract"]))
+    name_idx = {m["nome"]: i for i, m in enumerate(members)}
+
+    def ended(p):
+        f = p.get("fim") or ""
+        return bool(f) and f < today[: len(f)]
+
+    projs, manual = [], []
+    mf = DATA / "projetos.json"
+    if mf.exists():
+        for p in json.loads(mf.read_text(encoding="utf-8")).get("projetos", []):
+            q = dict(p, membros=[name_idx[n] for n in p.get("membros", []) if n in name_idx])
+            q["funcoes"] = {name_idx[n]: f for n, f in (p.get("funcoes") or {}).items() if n in name_idx}
+            q["_ck"] = code_key(p.get("codigo"))
+            manual.append(q)
+            projs.append(q)
+    by_title = {title_key(p["titulo"], ""): p for p in projs}
+
+    def find(w):
+        ck = code_key(w.get("codigo"))
+        tk = title_key(w["titulo"], "")
+        for p in projs:
+            pk = p.get("_ck") or code_key(p.get("codigo"))
+            if ck and pk and (ck == pk or (len(pk) >= 6 and (pk in ck or ck in pk))):
+                return p
+            if pk and len(pk) >= 6 and pk in tk:
+                return p
+        return by_title.get(tk)
+
+    for idx, m in enumerate(members):
+        f = DATA / "orcid_projetos" / f"{m.get('orcid', '')}.json"
+        if not m.get("orcid") or not f.exists():
+            continue
+        for w in json.loads(f.read_text(encoding="utf-8")):
+            if w.get("tipo") not in tipos:
+                continue
+            p = find(w)
+            if p is None:
+                p = dict(w, membros=[], funcoes={})
+                projs.append(p)
+                by_title[title_key(w["titulo"], "")] = p
+            else:
+                for k in ("financiador", "inicio", "fim", "url", "codigo"):
+                    if not p.get(k) and w.get(k):
+                        p[k] = w[k]
+            if idx not in p["membros"]:
+                p["membros"].append(idx)
+    projs = [p for p in projs if not ended(p)]
+    projs.sort(key=lambda p: (p.get("inicio") or "0000"), reverse=True)
+    return projs
+
+
+def render_projects(projs, members):
+    items = []
+    for p in projs:
+        title = f'<a href="{e(p["url"])}">{e(p["titulo"])}</a>' if p.get("url") else e(p["titulo"])
+        tipo = p.get("tipo_label") or TIPOS_PROJ.get(p.get("tipo"), "Projeto")
+        per = " – ".join(x for x in (fmt_ym(p.get("inicio")), fmt_ym(p.get("fim"))) if x)
+        meta = " · ".join(e(x) for x in (tipo, p.get("financiador"), p.get("codigo"), per) if x)
+        who = ", ".join(
+            e(members[i]["nome"]) + (f' — {e(p["funcoes"][i])}' if i in (p.get("funcoes") or {}) else "")
+            for i in p["membros"]
+        )
+        items.append(f'<li><p class="pt">{title}</p><p class="pv">{meta}</p><p class="pm">{who}</p></li>')
+    return "\n".join(items)
+
+
+def read_date(name):
+    f = DATA / name
+    if not f.exists():
+        return ""
+    y, mth, d = f.read_text().strip().split("-")
+    return f"{d}/{mth}/{y}"
 
 
 def main():
@@ -115,26 +237,38 @@ def main():
     # coordenação primeiro, restantes por ordem alfabética
     members.sort(key=lambda m: (not m.get("funcao"), unicodedata.normalize("NFKD", m["nome"])))
     pubs = load_publications(members, cfg)
-    upd = DATA / "ultima_atualizacao.txt"
-    upd = upd.read_text().strip() if upd.exists() else ""
-    if upd:
-        y, mth, d = upd.split("-")
-        upd = f"{d}/{mth}/{y}"
+    projs = load_projects(members, cfg)
+    n_joint = sum(1 for p in pubs if len(p["membros"]) > 1)
+    upd = read_date("ultima_atualizacao.txt")
+    upd_p = read_date("ultima_atualizacao_projetos.txt")
     depts = {m["departamento"] for m in members if m.get("departamento")}
-    options = "".join(
+    options = '<option value="c">Só publicações conjuntas</option>' + "".join(
         f'<option value="{i}">{e(m["nome"])}</option>' for i, m in enumerate(members) if m.get("orcid")
     )
     contacts = "".join(
         f'<li>{e(c["nome"])} — <a href="mailto:{e(c["email"])}">{e(c["email"])}</a></li>'
         for c in cfg.get("contactos", [])
     )
+    proj_section = ""
+    if projs:
+        note = f"Projetos em curso registados no ORCID dos membros (atualizado em {upd_p}), complementados manualmente." if upd_p else "Projetos e redes em curso."
+        proj_section = (
+            '<section class="block" id="projetos"><h2>Projetos e redes</h2>'
+            f'<p class="muted" style="font-size:14px;margin:0 0 8px">{e(note)}</p>'
+            f'<ol class="pubs">{render_projects(projs, members)}</ol></section>'
+        )
     html = TEMPLATE.format(
         titulo=e(cfg.get("titulo", "Polo IDMEC no ISEL")),
         n_membros=len(members),
         n_depts=len(depts),
         n_pubs=len(pubs),
+        tile_conjuntas=(f'<div><strong>{n_joint}</strong>publicações conjuntas</div>'
+                        if n_joint >= int(cfg.get("mostrar_conjuntas_a_partir_de", 10)) else ""),
         ano_inicio=int(cfg.get("ano_inicio", 2024)),
         membros="".join(render_member(m) for m in members),
+        projetos=proj_section,
+        nav_projetos='<a href="#projetos">Projetos</a>' if projs else "",
+        colaboracoes=render_collabs(pubs, members),
         publicacoes=render_pubs(pubs, members),
         opcoes=options,
         atualizado=f"Atualizado automaticamente a partir do ORCID em {upd}." if upd else "Atualizado automaticamente a partir do ORCID.",
@@ -142,7 +276,7 @@ def main():
     )
     SITE.mkdir(exist_ok=True)
     (SITE / "index.html").write_text(html, encoding="utf-8")
-    print(f"Site gerado: {len(members)} membros, {len(pubs)} publicações.")
+    print(f"Site gerado: {len(members)} membros, {len(pubs)} publicações ({n_joint} conjuntas), {len(projs)} projetos.")
 
 
 TEMPLATE = """<!doctype html>
@@ -209,6 +343,13 @@ select {{ font: inherit; padding: 6px 10px; border: 1px solid var(--line); borde
 .pv, .pm {{ font-size: 14px; color: var(--muted); }}
 .pm {{ color: var(--accent); }}
 .muted {{ color: var(--muted); }}
+.badge {{ font-size: 11px; color: var(--accent); background: var(--accent-soft); padding: 1px 7px; border-radius: 999px; margin-left: 6px; vertical-align: 1px; }}
+.collab {{ margin: 24px 0 8px; padding: 16px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }}
+.collab h3 {{ margin: 0 0 2px; font-size: 16px; font-weight: 600; }}
+.collab .muted {{ font-size: 13px; margin: 0 0 10px; }}
+.collab ul {{ list-style: none; margin: 0; padding: 0; columns: 2 280px; column-gap: 32px; }}
+.collab li {{ display: flex; justify-content: space-between; gap: 12px; padding: 4px 0; border-bottom: 1px solid var(--line); font-size: 14px; break-inside: avoid; }}
+.collab strong {{ font-weight: 600; font-variant-numeric: tabular-nums; }}
 footer {{ border-top: 1px solid var(--line); padding: 28px 0 40px; font-size: 14px; color: var(--muted); }}
 @media (max-width: 640px) {{
   nav {{ display: none; }}
@@ -220,7 +361,7 @@ footer {{ border-top: 1px solid var(--line); padding: 28px 0 40px; font-size: 14
 <body>
 <div class="top"><div class="wrap">
   <a class="brand" href="#">Polo <span>IDMEC</span> · ISEL</a>
-  <nav><a href="#sobre">Sobre</a><a href="#membros">Membros</a><a href="#publicacoes">Publicações</a><a href="#contacto">Contacto</a></nav>
+  <nav><a href="#sobre">Sobre</a><a href="#membros">Membros</a>{nav_projetos}<a href="#publicacoes">Publicações</a><a href="#contacto">Contacto</a></nav>
 </div></div>
 
 <main class="wrap">
@@ -231,19 +372,24 @@ footer {{ border-top: 1px solid var(--line); padding: 28px 0 40px; font-size: 14
       <div><strong>{n_membros}</strong>investigadores</div>
       <div><strong>{n_depts}</strong>departamentos do ISEL</div>
       <div><strong>{n_pubs}</strong>publicações desde {ano_inicio}</div>
+      {tile_conjuntas}
     </div>
   </section>
 
   <section class="block" id="sobre">
     <h2>Sobre o polo</h2>
     <div class="prose">
-      <p>O Polo IDMEC no ISEL resulta do protocolo de colaboração assinado entre o ISEL e o IDMEC em novembro de 2024. Reúne docentes do ISEL que desenvolvem investigação no âmbito do IDMEC, com o objetivo de promover atividades de investigação conjuntas e dar visibilidade à investigação feita no ISEL.</p>
-      <p>As áreas de atuação incluem:</p>
+      <p>O Polo IDMEC no ISEL foi constituído em 2024, na sequência de décadas de participação de docentes do ISEL no IDMEC – Instituto de Engenharia Mecânica. Reúne docentes de vários departamentos do ISEL que desenvolvem investigação no âmbito do IDMEC, nomeadamente em projetos financiados, nacionais e internacionais.</p>
+      <p>O polo desenvolve métodos de otimização global, multiobjetivo e com variáveis mistas – contínuas, discretas e categóricas – e aplica-os, em conjunto com as restantes competências do grupo, à resolução de problemas reais de engenharia e da indústria.</p>
+      <p>Áreas de atuação:</p>
       <ul class="chips">
-        <li>Engenharia mecânica</li><li>Aeroespacial</li><li>Transportes</li><li>Energia</li><li>Ambiente</li>
-        <li>Mecatrónica</li><li>Informática industrial</li><li>Materiais</li><li>Engenharia biomédica</li>
+        <li>Otimização global e multiobjetivo</li><li>Otimização com variáveis mistas e categóricas</li>
+        <li>Mecânica computacional e estrutural</li><li>Materiais compósitos e estruturas avançadas</li>
+        <li>Biomecânica e sistemas multicorpo</li><li>Fabrico e fabrico aditivo</li>
+        <li>Energia, fluidos e AVAC</li><li>Robótica e inteligência artificial</li>
+        <li>Aplicações industriais</li>
       </ul>
-      <p style="margin-top:18px"><a href="https://www.isel.pt/en/news/isel-and-idmec-sign-protocol-strengthen-research-mechanical-engineering">Notícia do protocolo</a> · <a href="https://www.idmec.tecnico.ulisboa.pt/">IDMEC</a> · <a href="https://www.isel.pt/">ISEL</a></p>
+      <p style="margin-top:18px"><a href="https://www.idmec.tecnico.ulisboa.pt/">IDMEC</a> · <a href="https://www.isel.pt/">ISEL</a></p>
     </div>
   </section>
 
@@ -253,6 +399,8 @@ footer {{ border-top: 1px solid var(--line); padding: 28px 0 40px; font-size: 14
     </div>
   </section>
 
+  {projetos}
+
   <section class="block" id="publicacoes">
     <h2>Publicações</h2>
     <div class="toolbar">
@@ -261,6 +409,7 @@ footer {{ border-top: 1px solid var(--line); padding: 28px 0 40px; font-size: 14
       <span id="count"></span>
     </div>
     <p class="muted" style="font-size:14px;margin:0">{atualizado}</p>
+    {colaboracoes}
     {publicacoes}
   </section>
 
@@ -282,11 +431,11 @@ footer {{ border-top: 1px solid var(--line); padding: 28px 0 40px; font-size: 14
   if (!sel) return;
   function apply() {{
     var v = sel.value, n = 0;
-    document.querySelectorAll('.pubs li').forEach(function (li) {{
-      var show = !v || li.getAttribute('data-m').indexOf(' ' + v + ' ') !== -1;
+    document.querySelectorAll('#publicacoes .pubs li').forEach(function (li) {{
+      var show = !v || (v === 'c' ? li.getAttribute('data-c') === '1' : li.getAttribute('data-m').indexOf(' ' + v + ' ') !== -1);
       li.hidden = !show; if (show) n++;
     }});
-    document.querySelectorAll('section.year').forEach(function (s) {{
+    document.querySelectorAll('#publicacoes section.year').forEach(function (s) {{
       s.hidden = !s.querySelector('li:not([hidden])');
     }});
     count.textContent = v ? n + ' publicações' : '';

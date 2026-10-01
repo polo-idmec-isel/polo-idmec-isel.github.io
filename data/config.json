@@ -1,10 +1,26 @@
 {
-  "_nota": "Configuração do site. 'ano_inicio': só aparecem publicações deste ano em diante.",
+  "_nota": "Configuração do site. 'ano_inicio': só aparecem publicações deste ano em diante. 'tipos_projeto': tipos de financiamento do ORCID a mostrar (só os que ainda estão em curso). 'mostrar_conjuntas_a_partir_de': o número de publicações conjuntas só aparece no topo da página a partir deste valor.",
   "titulo": "Polo IDMEC no ISEL",
   "ano_inicio": 2024,
-  "tipos_incluidos": ["journal-article", "conference-paper", "book-chapter", "book"],
+  "tipos_incluidos": [
+    "journal-article",
+    "conference-paper",
+    "book-chapter",
+    "book"
+  ],
   "contactos": [
-    {"nome": "Amélia Loja", "email": "amelia.loja@isel.pt"},
-    {"nome": "José Aguilar Madeira", "email": "aguilarmadeira@tecnico.ulisboa.pt"}
-  ]
+    {
+      "nome": "Amélia Loja",
+      "email": "amelia.loja@isel.pt"
+    },
+    {
+      "nome": "José Aguilar Madeira",
+      "email": "aguilarmadeira@tecnico.ulisboa.pt"
+    }
+  ],
+  "tipos_projeto": [
+    "grant",
+    "contract"
+  ],
+  "mostrar_conjuntas_a_partir_de": 10
 }

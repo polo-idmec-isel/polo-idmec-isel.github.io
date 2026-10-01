@@ -4,8 +4,9 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "17 5 1 * *"   # dia 1 de cada mês, 05:17 UTC
-  workflow_dispatch:        # permite correr à mão (separador Actions)
+    - cron: "17 5 1 * *"    # dia 1 de cada mês: publicações
+    - cron: "17 5 15 * *"   # dia 15 de cada mês: projetos
+  workflow_dispatch:         # permite correr à mão (separador Actions)
 
 permissions:
   contents: write
@@ -26,7 +27,12 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Ir buscar publicações ao ORCID
+        if: github.event_name != 'schedule' || github.event.schedule == '17 5 1 * *'
         run: python3 scripts/fetch_publications.py
+
+      - name: Ir buscar projetos ao ORCID
+        if: github.event_name != 'schedule' || github.event.schedule == '17 5 15 * *'
+        run: python3 scripts/fetch_projects.py
 
       - name: Guardar dados atualizados no repositório
         run: |
@@ -34,7 +40,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Atualização automática das publicações"
+            git commit -m "Atualização automática dos dados do ORCID"
             git push
           fi
 
