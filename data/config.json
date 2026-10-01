@@ -1,0 +1,10 @@
+{
+  "_nota": "Configuração do site. 'ano_inicio': só aparecem publicações deste ano em diante.",
+  "titulo": "Polo IDMEC no ISEL",
+  "ano_inicio": 2024,
+  "tipos_incluidos": ["journal-article", "conference-paper", "book-chapter", "book"],
+  "contactos": [
+    {"nome": "Amélia Loja", "email": "amelia.loja@isel.pt"},
+    {"nome": "José Aguilar Madeira", "email": "aguilarmadeira@tecnico.ulisboa.pt"}
+  ]
+}

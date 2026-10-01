@@ -1,0 +1,49 @@
+name: Atualizar e publicar o site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 5 1 * *"   # dia 1 de cada mês, 05:17 UTC
+  workflow_dispatch:        # permite correr à mão (separador Actions)
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Ir buscar publicações ao ORCID
+        run: python3 scripts/fetch_publications.py
+
+      - name: Guardar dados atualizados no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualização automática das publicações"
+            git push
+          fi
+
+      - name: Gerar o site
+        run: python3 scripts/build.py
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,197 @@
+{
+  "_nota": "Lista de membros do Polo. Para acrescentar alguém, copie um bloco e altere os campos. 'interesses': 3 a 4 palavras-chave. 'orcid' é necessário para as publicações aparecerem automaticamente.",
+  "membros": [
+    {
+      "nome": "Amélia Loja",
+      "nome_completo": "Maria Amélia Ramos Loja",
+      "funcao": "Coordenadora",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Mecânica computacional dos sólidos",
+        "Materiais compósitos avançados",
+        "Estruturas inteligentes",
+        "Otimização e engenharia inversa"
+      ],
+      "orcid": "0000-0002-4452-5840",
+      "cienciavitae": "A016-59D1-2D00",
+      "isel": "https://www.isel.pt/docentes/maria-amelia-ramos-loja"
+    },
+    {
+      "nome": "José Aguilar Madeira",
+      "nome_completo": "José Firmino Aguilar Madeira",
+      "funcao": "Coordenador",
+      "departamento": "Departamento de Matemática",
+      "interesses": [
+        "Otimização sem derivadas e multiobjetivo",
+        "Variáveis mistas e categóricas",
+        "Materiais compósitos e auxéticos",
+        "Otimização de topologia"
+      ],
+      "orcid": "0000-0001-9523-3808",
+      "cienciavitae": "6F1E-DCF0-D6EC",
+      "isel": ""
+    },
+    {
+      "nome": "André Carvalho",
+      "nome_completo": "André Rui Dantas Carvalho",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Vibrações e amortecimento termoelástico",
+        "Materiais com gradação funcional",
+        "Fadiga",
+        "Fabrico aditivo"
+      ],
+      "orcid": "0000-0002-2089-7156",
+      "cienciavitae": "4719-C315-3211",
+      "isel": "https://www.isel.pt/docentes/andre-rui-dantas-carvalho"
+    },
+    {
+      "nome": "Artur Ferreira",
+      "nome_completo": "Artur Jorge Ferreira",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Informática",
+      "interesses": [
+        "Inteligência artificial",
+        "Aprendizagem automática",
+        "Seleção de características",
+        "Biometria"
+      ],
+      "orcid": "0000-0002-6508-0932",
+      "cienciavitae": "091A-96FB-A88C",
+      "isel": "https://www.isel.pt/docentes/artur-jorge-ferreira"
+    },
+    {
+      "nome": "Cláudia Casaca",
+      "nome_completo": "Cláudia Sofia Séneca da Luz Casaca",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Sistemas de energia e controlo",
+        "Combustão e emissão de poluentes",
+        "AVAC"
+      ],
+      "orcid": "0000-0003-4556-4101",
+      "cienciavitae": "C81B-07D4-B460",
+      "isel": "https://www.isel.pt/docentes/claudia-sofia-seneca-da-luz-casaca"
+    },
+    {
+      "nome": "Fernando Carreira",
+      "nome_completo": "Fernando Paulo Neves da Fonseca Carreira",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Robótica móvel",
+        "Localização e navegação",
+        "Visão por computador (RGB-D)"
+      ],
+      "orcid": "0000-0002-9873-5050",
+      "cienciavitae": "D019-D006-510B",
+      "isel": "https://www.isel.pt/docentes/fernando-paulo-neves-da-fonseca-carreira"
+    },
+    {
+      "nome": "Inês Barbosa",
+      "nome_completo": "Inês de Carvalho Jerónimo Barbosa",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Biomecânica do movimento",
+        "Análise dinâmica",
+        "Otimização",
+        "Análise de sensibilidade"
+      ],
+      "orcid": "0000-0002-2971-2162",
+      "cienciavitae": "741C-7842-68FE",
+      "isel": "https://www.isel.pt/docentes/ines-de-carvalho-jeronimo-barbosa"
+    },
+    {
+      "nome": "Ivo Bragança",
+      "nome_completo": "Ivo Manuel Ferreira de Bragança",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Processos de fabrico",
+        "Microfabrico",
+        "Conformação plástica",
+        "Fabrico aditivo metálico"
+      ],
+      "orcid": "0000-0001-5409-619X",
+      "cienciavitae": "AD1C-FCD3-0E95",
+      "isel": "https://www.isel.pt/docentes/ivo-manuel-ferreira-de-braganca"
+    },
+    {
+      "nome": "Joaquim Infante Barbosa",
+      "nome_completo": "Joaquim Infante Barbosa",
+      "funcao": "",
+      "departamento": "",
+      "interesses": [
+        "Método dos elementos finitos",
+        "Otimização estrutural",
+        "Mecânica computacional"
+      ],
+      "orcid": "",
+      "cienciavitae": "361B-9965-016F",
+      "isel": ""
+    },
+    {
+      "nome": "João Milho",
+      "nome_completo": "João Filipe de Almeida Milho",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Segurança passiva ferroviária",
+        "Crashworthiness",
+        "Biomecânica do impacto",
+        "Sistemas multicorpo"
+      ],
+      "orcid": "0000-0002-3302-0935",
+      "cienciavitae": "8B10-31FC-8EE9",
+      "isel": "https://www.isel.pt/docentes/joao-filipe-de-almeida-milho"
+    },
+    {
+      "nome": "Nuno Serra",
+      "nome_completo": "Nuno Ricardo Piedade Antunes Serra",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Dinâmica de fluidos computacional (CFD)",
+        "Transferência de calor",
+        "Ventilação e AVAC",
+        "Modelação de turbulência"
+      ],
+      "orcid": "0000-0002-6656-6926",
+      "cienciavitae": "",
+      "isel": "https://www.isel.pt/docentes/nuno-ricardo-piedade-antunes-serra"
+    },
+    {
+      "nome": "Ricardo Portal",
+      "nome_completo": "Ricardo José Fontes Portal",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Biomecânica",
+        "Dinâmica de sistemas multicorpo",
+        "Deteção de contacto",
+        "Reconstrução de acidentes"
+      ],
+      "orcid": "0000-0001-9082-5804",
+      "cienciavitae": "2316-E045-2848",
+      "isel": "https://www.isel.pt/docentes/ricardo-jose-fontes-portal"
+    },
+    {
+      "nome": "Vítor Anes",
+      "nome_completo": "Vítor Manuel Rodrigues Anes",
+      "funcao": "",
+      "departamento": "Departamento de Engenharia Mecânica",
+      "interesses": [
+        "Projeto mecânico",
+        "Caracterização de materiais",
+        "Integridade estrutural e fadiga",
+        "Decisão multicritério"
+      ],
+      "orcid": "0000-0002-8526-398X",
+      "cienciavitae": "841E-DD98-58C2",
+      "isel": "https://www.isel.pt/docentes/vitor-manuel-rodrigues-anes"
+    }
+  ]
+}
