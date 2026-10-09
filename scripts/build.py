@@ -245,6 +245,8 @@ def code_key(c):
 def load_projects(members, cfg):
     today = time.strftime("%Y-%m")
     tipos = set(cfg.get("tipos_projeto", ["grant", "contract"]))
+    excl = {code_key(x) for x in cfg.get("projetos_excluir", [])}
+    excl_t = {title_key(x, "") for x in cfg.get("projetos_excluir", [])}
     name_idx = {m["nome"]: i for i, m in enumerate(members)}
 
     def ended(p):
@@ -294,6 +296,11 @@ def load_projects(members, cfg):
             continue
         for w in json.loads(f.read_text(encoding="utf-8")):
             if w.get("tipo") not in tipos or institutional(w):
+                continue
+            # sem data de fim no ORCID = normalmente candidatura submetida/em avaliação: não mostrar
+            if not w.get("fim"):
+                continue
+            if code_key(w.get("codigo")) in excl or title_key(w["titulo"], "") in excl_t:
                 continue
             p = find(w)
             if p is None:

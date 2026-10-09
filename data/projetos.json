@@ -20,6 +20,22 @@
       "funcoes_en": {
         "José Aguilar Madeira": "leader of Working Group 2 (Mixed continuous and discrete optimisation)"
       }
+    },
+    {
+      "titulo": "M4WIND – Monitoring, Modelling and Machine learning for Managing the operating life of WIND farms",
+      "tipo_label": "Projeto",
+      "tipo_label_en": "Project",
+      "financiador": "Fundação para a Ciência e a Tecnologia",
+      "financiador_en": "Fundação para a Ciência e a Tecnologia (FCT)",
+      "codigo": "2022.08120.PTDC",
+      "inicio": "2023-02",
+      "fim": "2027-03",
+      "url": "",
+      "membros": [
+        "José Aguilar Madeira"
+      ],
+      "funcoes": {},
+      "funcoes_en": {}
     }
   ]
 }
