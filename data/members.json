@@ -1,5 +1,5 @@
 {
-  "_nota": "Lista de membros do Polo. Para acrescentar alguém, copie um bloco e altere os campos. 'interesses': 3 a 4 palavras-chave. 'orcid' é necessário para as publicações aparecerem automaticamente.",
+  "_nota": "Lista de membros do Polo. Para acrescentar alguém, copie um bloco e altere os campos. 'interesses' (português) e 'interests' (inglês): 3 a 4 palavras-chave. 'orcid' é necessário para as publicações aparecerem automaticamente.",
   "membros": [
     {
       "nome": "Amélia Loja",
@@ -11,6 +11,12 @@
         "Materiais compósitos avançados",
         "Estruturas inteligentes",
         "Otimização e engenharia inversa"
+      ],
+      "interests": [
+        "Computational solid mechanics",
+        "Advanced composite materials",
+        "Smart structures",
+        "Optimization and inverse engineering"
       ],
       "orcid": "0000-0002-4452-5840",
       "cienciavitae": "A016-59D1-2D00",
@@ -27,6 +33,12 @@
         "Materiais compósitos e auxéticos",
         "Otimização de topologia"
       ],
+      "interests": [
+        "Derivative-free and multi-objective optimization",
+        "Mixed and categorical variables",
+        "Composite and auxetic materials",
+        "Topology optimization"
+      ],
       "orcid": "0000-0001-9523-3808",
       "cienciavitae": "6F1E-DCF0-D6EC",
       "isel": ""
@@ -41,6 +53,12 @@
         "Materiais com gradação funcional",
         "Fadiga",
         "Fabrico aditivo"
+      ],
+      "interests": [
+        "Vibrations and thermoelastic damping",
+        "Functionally graded materials",
+        "Fatigue",
+        "Additive manufacturing"
       ],
       "orcid": "0000-0002-2089-7156",
       "cienciavitae": "4719-C315-3211",
@@ -57,6 +75,12 @@
         "Seleção de características",
         "Biometria"
       ],
+      "interests": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Feature selection",
+        "Biometrics"
+      ],
       "orcid": "0000-0002-6508-0932",
       "cienciavitae": "091A-96FB-A88C",
       "isel": "https://www.isel.pt/docentes/artur-jorge-ferreira"
@@ -71,6 +95,11 @@
         "Combustão e emissão de poluentes",
         "AVAC"
       ],
+      "interests": [
+        "Energy and control systems",
+        "Combustion and pollutant emissions",
+        "HVAC"
+      ],
       "orcid": "0000-0003-4556-4101",
       "cienciavitae": "C81B-07D4-B460",
       "isel": "https://www.isel.pt/docentes/claudia-sofia-seneca-da-luz-casaca"
@@ -84,6 +113,11 @@
         "Robótica móvel",
         "Localização e navegação",
         "Visão por computador (RGB-D)"
+      ],
+      "interests": [
+        "Mobile robotics",
+        "Localization and navigation",
+        "Computer vision (RGB-D)"
       ],
       "orcid": "0000-0002-9873-5050",
       "cienciavitae": "D019-D006-510B",
@@ -100,6 +134,12 @@
         "Otimização",
         "Análise de sensibilidade"
       ],
+      "interests": [
+        "Human movement biomechanics",
+        "Dynamic analysis",
+        "Optimization",
+        "Sensitivity analysis"
+      ],
       "orcid": "0000-0002-2971-2162",
       "cienciavitae": "741C-7842-68FE",
       "isel": "https://www.isel.pt/docentes/ines-de-carvalho-jeronimo-barbosa"
@@ -115,6 +155,12 @@
         "Conformação plástica",
         "Fabrico aditivo metálico"
       ],
+      "interests": [
+        "Manufacturing processes",
+        "Microfabrication",
+        "Metal forming",
+        "Metal additive manufacturing"
+      ],
       "orcid": "0000-0001-5409-619X",
       "cienciavitae": "AD1C-FCD3-0E95",
       "isel": "https://www.isel.pt/docentes/ivo-manuel-ferreira-de-braganca"
@@ -129,7 +175,12 @@
         "Otimização estrutural",
         "Mecânica computacional"
       ],
-      "orcid": "",
+      "interests": [
+        "Finite element method",
+        "Structural optimization",
+        "Computational mechanics"
+      ],
+      "orcid": "0000-0002-8219-6435",
       "cienciavitae": "361B-9965-016F",
       "isel": ""
     },
@@ -143,6 +194,12 @@
         "Crashworthiness",
         "Biomecânica do impacto",
         "Sistemas multicorpo"
+      ],
+      "interests": [
+        "Railway passive safety",
+        "Crashworthiness",
+        "Impact biomechanics",
+        "Multibody systems"
       ],
       "orcid": "0000-0002-3302-0935",
       "cienciavitae": "8B10-31FC-8EE9",
@@ -159,6 +216,12 @@
         "Ventilação e AVAC",
         "Modelação de turbulência"
       ],
+      "interests": [
+        "Computational fluid dynamics (CFD)",
+        "Heat transfer",
+        "Ventilation and HVAC",
+        "Turbulence modelling"
+      ],
       "orcid": "0000-0002-6656-6926",
       "cienciavitae": "",
       "isel": "https://www.isel.pt/docentes/nuno-ricardo-piedade-antunes-serra"
@@ -174,6 +237,12 @@
         "Deteção de contacto",
         "Reconstrução de acidentes"
       ],
+      "interests": [
+        "Biomechanics",
+        "Multibody system dynamics",
+        "Contact detection",
+        "Accident reconstruction"
+      ],
       "orcid": "0000-0001-9082-5804",
       "cienciavitae": "2316-E045-2848",
       "isel": "https://www.isel.pt/docentes/ricardo-jose-fontes-portal"
@@ -188,6 +257,12 @@
         "Caracterização de materiais",
         "Integridade estrutural e fadiga",
         "Decisão multicritério"
+      ],
+      "interests": [
+        "Mechanical design",
+        "Materials characterization",
+        "Structural integrity and fatigue",
+        "Multi-criteria decision-making"
       ],
       "orcid": "0000-0002-8526-398X",
       "cienciavitae": "841E-DD98-58C2",

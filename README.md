@@ -8,6 +8,7 @@ Site: https://polo-idmec-isel.github.io
 - Dia 1 de cada mês: o GitHub vai buscar as publicações de cada membro ao ORCID e volta a publicar o site.
 - Dia 15 de cada mês: o mesmo para os projetos (secção *Financiamento* do ORCID; só os que estão em curso).
 - Também é regenerado sempre que se altera um ficheiro no repositório.
+- O site tem versão portuguesa (raiz) e inglesa (`/en/`). Os textos fixos estão em `scripts/build.py` (dicionário `T`); os interesses em inglês estão no campo `interests` de `data/members.json`.
 
 ## Tarefas habituais
 

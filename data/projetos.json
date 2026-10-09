@@ -1,5 +1,5 @@
 {
-  "_nota": "Projetos e redes acrescentados à mão (os do ORCID entram automaticamente). Use para o que não está no ORCID ou para indicar funções. 'membros' usa o campo 'nome' de members.json. Se o 'codigo' coincidir com um projeto vindo do ORCID, os dados daqui têm prioridade.",
+  "_nota": "Projetos e redes acrescentados à mão (os do ORCID entram automaticamente). Use para o que não está no ORCID ou para indicar funções. 'membros' usa o campo 'nome' de members.json. Se o 'codigo' coincidir com um projeto vindo do ORCID, os dados daqui têm prioridade. Campos terminados em '_en' são a versão inglesa (opcionais).",
   "projetos": [
     {
       "titulo": "ROAR-NET – Randomised Optimisation Algorithms Research Network",
@@ -9,8 +9,17 @@
       "inicio": "2023-10",
       "fim": "2027-10",
       "url": "https://roar-net.eu/",
-      "membros": ["José Aguilar Madeira"],
-      "funcoes": {"José Aguilar Madeira": "líder do Grupo de Trabalho 2 (Mixed continuous and discrete optimisation)"}
+      "membros": [
+        "José Aguilar Madeira"
+      ],
+      "funcoes": {
+        "José Aguilar Madeira": "líder do Grupo de Trabalho 2 (Mixed continuous and discrete optimisation)"
+      },
+      "tipo_label_en": "European network",
+      "financiador_en": "COST / Horizon Europe",
+      "funcoes_en": {
+        "José Aguilar Madeira": "leader of Working Group 2 (Mixed continuous and discrete optimisation)"
+      }
     }
   ]
 }
