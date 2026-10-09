@@ -1,5 +1,13 @@
 [
  {
+  "titulo": "[CI.54] A Personal Digital Assistant Leveraged by  Large Language Models",
+  "ano": 2027,
+  "tipo": "conference-paper",
+  "revista": "International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA)",
+  "doi": "",
+  "url": ""
+ },
+ {
   "titulo": "Email Scanner – A Machine Learning Approach to Staffing/Non-Staffing Automatic Classification",
   "ano": 2027,
   "tipo": "book-chapter",
@@ -28,6 +36,22 @@
   "ano": 2026,
   "tipo": "conference-paper",
   "revista": "International Conference on Computer-Human Interaction Research and Applications, CHIRA2026",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Emotion-Aware Public Speaking Coach Using Local Large Language Models",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern  Recognition (RECPAD)",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "[CN.34] CANDeck Studio Dashboard - a Modular Desktop Platform for Automotive Telemetry Analysis",
+  "ano": 2026,
+  "tipo": "conference-paper",
+  "revista": "Portuguese Conference on Pattern  Recognition (RECPAD)",
   "doi": "",
   "url": ""
  },
@@ -720,14 +744,6 @@
   "url": ""
  },
  {
-  "titulo": "[CL.3] Echo Cancellation for Hands-Free Systems",
-  "ano": 2011,
-  "tipo": "book-chapter",
-  "revista": "Adaptive Filtering - InTech - Open Access Publisher",
-  "doi": "10.5772/19238",
-  "url": "https://doi.org/10.5772/19238"
- },
- {
   "titulo": "[CI.14] Efficient unsupervised feature selection for sparse data",
   "ano": 2011,
   "tipo": "conference-paper",
@@ -742,6 +758,14 @@
   "revista": "International Conference on Knowledge Discovery and Information Retrieval (IC3K-KDIR)",
   "doi": "",
   "url": ""
+ },
+ {
+  "titulo": "[CL.3] Echo Cancellation for Hands-Free Systems",
+  "ano": 2011,
+  "tipo": "book-chapter",
+  "revista": "Adaptive Filtering - InTech - Open Access Publisher",
+  "doi": "10.5772/19238",
+  "url": "https://doi.org/10.5772/19238"
  },
  {
   "titulo": "[CL.3] Echo Cancellation for Hands-Free Systems",
