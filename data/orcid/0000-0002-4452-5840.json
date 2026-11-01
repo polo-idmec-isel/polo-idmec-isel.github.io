@@ -1,5 +1,13 @@
 [
  {
+  "titulo": "Nonlinear static and free vibration numerical analyses of panels made of functionally graded materials with integrated material reinforcement",
+  "ano": 2026,
+  "tipo": "journal-article",
+  "revista": "Composite Structures",
+  "doi": "10.1016/j.compstruct.2026.120946",
+  "url": "http://dx.doi.org/10.1016/j.compstruct.2026.120946"
+ },
+ {
   "titulo": "Auxetic Functionally Graded Beams Reinforced with Carbon Nanotubes: Prediction and Clustering of Characteristics and Mechanical Responses",
   "ano": 2026,
   "tipo": "book-chapter",
@@ -27,9 +35,9 @@
   "titulo": "Modeling and analysis of Double-Double composite structures integrating piezoelectric materials",
   "ano": 2025,
   "tipo": "journal-article",
-  "revista": "Mechanics of Advanced Materials and Structures",
+  "revista": "MECHANICS OF ADVANCED MATERIALS AND STRUCTURES",
   "doi": "10.1080/15376494.2024.2338910",
-  "url": "https://doi.org/10.1080/15376494.2024.2338910"
+  "url": ""
  },
  {
   "titulo": "A Statistical Assessment of Drilling Effects on Glass Fiber-Reinforced Polymeric Composites",
@@ -56,12 +64,12 @@
   "url": "https://doi.org/10.3390/jcs8060205"
  },
  {
-  "titulo": "Variability on Functionally Graded Plates’ Deflection Due to Uncertainty on Carbon Nanotubes’ Properties",
+  "titulo": "Variability on Functionally Graded Plates' Deflection Due to Uncertainty on Carbon Nanotubes' Properties",
   "ano": 2024,
   "tipo": "journal-article",
-  "revista": "Mathematical and Computational Applications",
+  "revista": "MATHEMATICAL AND COMPUTATIONAL APPLICATIONS",
   "doi": "10.3390/mca29020022",
-  "url": "https://doi.org/10.3390/mca29020022"
+  "url": ""
  },
  {
   "titulo": "Modelação e Análise de Estruturas Adaptáveis: Materiais Magneto-Eletro-Elásticos e Laminados Double-Double",
@@ -86,22 +94,6 @@
   "revista": "Instituto Politécnico de Lisboa Instituto Superior de Engenharia de Lisboa",
   "doi": "",
   "url": ""
- },
- {
-  "titulo": "Static and Free Vibration Analyses of Functionally Graded Plane Structures",
-  "ano": 2023,
-  "tipo": "journal-article",
-  "revista": "Journal of Composites Science",
-  "doi": "10.3390/jcs7090377",
-  "url": "https://doi.org/10.3390/jcs7090377"
- },
- {
-  "titulo": "A study on porous nanocomposite graded plates using equivalent single layer and layerwise models",
-  "ano": 2023,
-  "tipo": "journal-article",
-  "revista": "Mechanics of Advanced Materials and Structures",
-  "doi": "10.1080/15376494.2022.2092665",
-  "url": "https://doi.org/10.1080/15376494.2022.2092665"
  },
  {
   "titulo": "Reverse Engineering: A Link Between Mechanical and Biomedical Engineering",
@@ -136,6 +128,14 @@
   "url": "http://dx.doi.org/10.1016/j.sna.2022.114023"
  },
  {
+  "titulo": "A study on porous nanocomposite graded plates using equivalent single layer and layerwise models",
+  "ano": 2023,
+  "tipo": "journal-article",
+  "revista": "MECHANICS OF ADVANCED MATERIALS AND STRUCTURES",
+  "doi": "10.1080/15376494.2022.2092665",
+  "url": ""
+ },
+ {
   "titulo": "A study on the static behavior of functionally graded I-shaped beams",
   "ano": 2023,
   "tipo": "journal-article",
@@ -144,12 +144,12 @@
   "url": "http://dx.doi.org/10.3934/matersci.2024002"
  },
  {
-  "titulo": "Preface to Numerical and Symbolic Computation: Developments and Applications—2021",
-  "ano": 2022,
+  "titulo": "Static and Free Vibration Analyses of Functionally Graded Plane Structures",
+  "ano": 2023,
   "tipo": "journal-article",
-  "revista": "Mathematical and Computational Applications",
-  "doi": "10.3390/mca27060107",
-  "url": "https://doi.org/10.3390/mca27060107"
+  "revista": "JOURNAL OF COMPOSITES SCIENCE",
+  "doi": "10.3390/jcs7090377",
+  "url": ""
  },
  {
   "titulo": "Eco-benign nanostructured triboelectric films of onion tunic-SnOx based TENG for sustainable and green energy generation",
@@ -158,30 +158,6 @@
   "revista": "Materials Chemistry and Physics",
   "doi": "10.1016/j.matchemphys.2022.126736",
   "url": "http://dx.doi.org/10.1016/j.matchemphys.2022.126736"
- },
- {
-  "titulo": "Mechanical behavior of a sandwich plate with aluminum foam core, using an image-based layerwise model",
-  "ano": 2022,
-  "tipo": "journal-article",
-  "revista": "Mechanics of Advanced Materials and Structures",
-  "doi": "10.1080/15376494.2021.1919801",
-  "url": "https://doi.org/10.1080/15376494.2021.1919801"
- },
- {
-  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation IV",
-  "ano": 2022,
-  "tipo": "newspaper-article",
-  "revista": "Math.Comput.Sci.",
-  "doi": "",
-  "url": "https://doi.org/10.1007/s11786-022-00529-4"
- },
- {
-  "titulo": "Nonlocal Free Vibrations of Metallic FGM Beams",
-  "ano": 2022,
-  "tipo": "journal-article",
-  "revista": "Journal of Composites Science",
-  "doi": "10.3390/jcs6050125",
-  "url": "https://doi.org/10.3390/jcs6050125"
  },
  {
   "titulo": "Desenvolvimento e análise de próteses de pé com resposta dinâmica",
@@ -195,9 +171,17 @@
   "titulo": "3D Printing of Abdominal Immobilization Masks for Therapeutics: Dosimetric, Mechanical and Financial Analysis",
   "ano": 2022,
   "tipo": "journal-article",
-  "revista": "Bioengineering",
+  "revista": "BIOENGINEERING-BASEL",
   "doi": "10.3390/bioengineering9020055",
-  "url": "https://doi.org/10.3390/bioengineering9020055"
+  "url": ""
+ },
+ {
+  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation IV",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "MATHEMATICS IN COMPUTER SCIENCE",
+  "doi": "10.1007/s11786-022-00529-4",
+  "url": ""
  },
  {
   "titulo": "Hygrothermal aging and their influence on mechanical properties of the bio-composites",
@@ -208,12 +192,36 @@
   "url": ""
  },
  {
-  "titulo": "An Assessment of Thick Nanocomposite Plates’ Behavior under the Influence of Carbon Nanotubes Agglomeration",
+  "titulo": "Mechanical behavior of a sandwich plate with aluminum foam core, using an image-based layerwise model",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "MECHANICS OF ADVANCED MATERIALS AND STRUCTURES",
+  "doi": "10.1080/15376494.2021.1919801",
+  "url": ""
+ },
+ {
+  "titulo": "Nonlocal Free Vibrations of Metallic FGM Beams",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "JOURNAL OF COMPOSITES SCIENCE",
+  "doi": "10.3390/jcs6050125",
+  "url": ""
+ },
+ {
+  "titulo": "Preface to Numerical and Symbolic Computation: Developments and Applications-2021",
+  "ano": 2022,
+  "tipo": "journal-article",
+  "revista": "MATHEMATICAL AND COMPUTATIONAL APPLICATIONS",
+  "doi": "10.3390/mca27060107",
+  "url": ""
+ },
+ {
+  "titulo": "An Assessment of Thick Nanocomposite Plates' Behavior under the Influence of Carbon Nanotubes Agglomeration",
   "ano": 2021,
   "tipo": "journal-article",
-  "revista": "Journal of Composites Science",
+  "revista": "JOURNAL OF COMPOSITES SCIENCE",
   "doi": "10.3390/jcs5020041",
-  "url": "https://doi.org/10.3390/jcs5020041"
+  "url": ""
  },
  {
   "titulo": "Calculus in Engineering: a Finite Element Method approach",
@@ -224,12 +232,20 @@
   "url": ""
  },
  {
-  "titulo": "A Study on the Effect of Carbon Nanotubes’ Distribution and Agglomeration in the Free Vibration of Nanocomposite Plates",
-  "ano": 2020,
+  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation III",
+  "ano": 2021,
   "tipo": "journal-article",
-  "revista": "C",
-  "doi": "10.3390/c6040079",
-  "url": "https://doi.org/10.3390/c6040079"
+  "revista": "MATHEMATICS IN COMPUTER SCIENCE",
+  "doi": "10.1007/s11786-020-00487-9",
+  "url": ""
+ },
+ {
+  "titulo": "Image driven analysis of plates coated by cold spray coating process using a layerwise approach",
+  "ano": 2021,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/j.compstruct.2020.113250",
+  "url": ""
  },
  {
   "titulo": "Estudo de fadiga em materiais compósitos laminados",
@@ -237,14 +253,6 @@
   "tipo": "dissertation-thesis",
   "revista": "Instituto Politécnico de Lisboa Instituto Superior de Engenharia de Lisboa",
   "doi": "",
-  "url": ""
- },
- {
-  "titulo": "Image driven analysis of plates coated by cold spray coating process using a layerwise approach",
-  "ano": 2020,
-  "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/j.compstruct.2020.113250",
   "url": ""
  },
  {
@@ -256,38 +264,6 @@
   "url": ""
  },
  {
-  "titulo": "On the Performance and Recyclability of a Green Composite Based on AESO Resin",
-  "ano": 2020,
-  "tipo": "journal-article",
-  "revista": "Journal of Manufacturing and Materials Processing",
-  "doi": "10.3390/jmmp4030065",
-  "url": ""
- },
- {
-  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation III",
-  "ano": 2020,
-  "tipo": "journal-article",
-  "revista": "Mathematics in Computer Science",
-  "doi": "10.1007/s11786-020-00487-9",
-  "url": ""
- },
- {
-  "titulo": "Variable Stiffness Composites: Optimal Design Studies",
-  "ano": 2020,
-  "tipo": "journal-article",
-  "revista": "Journal of Composites Science",
-  "doi": "10.3390/jcs4020080",
-  "url": ""
- },
- {
-  "titulo": "Preface to Numerical and Symbolic Computation: Developments and Applications—2019",
-  "ano": 2020,
-  "tipo": "journal-article",
-  "revista": "Mathematical and Computational Applications",
-  "doi": "10.3390/mca25020028",
-  "url": "https://doi.org/10.3390/mca25020028"
- },
- {
   "titulo": "Porous Functionally Graded Plates: An Assessment of the Influence of Shear Correction Factor on Static Behavior",
   "ano": 2020,
   "tipo": "journal-article",
@@ -296,19 +272,27 @@
   "url": "http://dx.doi.org/10.3390/mca25020025"
  },
  {
-  "titulo": "In-plane functionally graded plates: A study on the free vibration and dynamic instability behaviours",
-  "ano": 2020,
-  "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/j.compstruct.2020.111905",
-  "url": ""
- },
- {
   "titulo": "A Bayesian approach to predict the structural responses of FGM plates with uncertain parameters",
   "ano": 2020,
   "tipo": "other",
   "revista": "PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE OF THE POLYMER PROCESSING SOCIETY (PPS-35)",
   "doi": "10.1063/1.5141586",
+  "url": ""
+ },
+ {
+  "titulo": "A Study on the Effect of Carbon Nanotubes' Distribution and Agglomeration in the Free Vibration of Nanocomposite Plates",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "C-JOURNAL OF CARBON RESEARCH",
+  "doi": "10.3390/c6040079",
+  "url": ""
+ },
+ {
+  "titulo": "In-plane functionally graded plates: A study on the free vibration and dynamic instability behaviours",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/j.compstruct.2020.111905",
   "url": ""
  },
  {
@@ -320,27 +304,35 @@
   "url": ""
  },
  {
+  "titulo": "On the Performance and Recyclability of a Green Composite Based on AESO Resin",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "JOURNAL OF MANUFACTURING AND MATERIALS PROCESSING",
+  "doi": "10.3390/jmmp4030065",
+  "url": ""
+ },
+ {
+  "titulo": "Preface to Numerical and Symbolic Computation: Developments and Applications-2019",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "MATHEMATICAL AND COMPUTATIONAL APPLICATIONS",
+  "doi": "10.3390/mca25020028",
+  "url": ""
+ },
+ {
+  "titulo": "Variable Stiffness Composites: Optimal Design Studies",
+  "ano": 2020,
+  "tipo": "journal-article",
+  "revista": "JOURNAL OF COMPOSITES SCIENCE",
+  "doi": "10.3390/jcs4020080",
+  "url": ""
+ },
+ {
   "titulo": "Modelação e optimização de estruturas sandwich com gradiente funcional e porosidades: uma abordagem científica e pedagógica",
   "ano": 2019,
   "tipo": "dissertation-thesis",
   "revista": "Instituto Politécnico de Lisboa Instituto Superior de Engenharia de Lisboa",
   "doi": "",
-  "url": ""
- },
- {
-  "titulo": "Influence of interphase on the multi-physics coupled frequency of three-phase smart magneto-electro-elastic composite plates",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/j.compstruct.2019.111254",
-  "url": ""
- },
- {
-  "titulo": "Radiotherapy-customized head immobilization masks: from modeling and analysis to 3D printing",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "Nuclear Science and Techniques",
-  "doi": "10.1007/s41365-019-0667-2",
   "url": ""
  },
  {
@@ -350,30 +342,6 @@
   "revista": "Materials Research Express",
   "doi": "10.1088/2053-1591/ab3175",
   "url": "http://dx.doi.org/10.1088/2053-1591/ab3175"
- },
- {
-  "titulo": "Experimental and numerical study of the joinability of sheets by sheet-bulk forming",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "International Journal for Computational Methods in Engineering Science and Mechanics",
-  "doi": "10.1080/15502287.2019.1644391",
-  "url": "https://doi.org/10.1080/15502287.2019.1644391"
- },
- {
-  "titulo": "Using 3D anthropometric data for the modelling of customised head immobilisation masks",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization",
-  "doi": "10.1080/21681163.2018.1507840",
-  "url": "https://doi.org/10.1080/21681163.2018.1507840"
- },
- {
-  "titulo": "Mechanical Behavior of Porous Functionally Graded Nanocomposite Materials",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "C",
-  "doi": "10.3390/c5020034",
-  "url": "https://doi.org/10.3390/c5020034"
  },
  {
   "titulo": "A pedagogical platform for metaheuristic optimization",
@@ -392,22 +360,6 @@
   "url": ""
  },
  {
-  "titulo": "Overview on the Evolution of Laser Welding of Vascular and Nervous Tissues",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "Applied Sciences",
-  "doi": "10.3390/app9102157",
-  "url": "https://doi.org/10.3390/app9102157"
- },
- {
-  "titulo": "Numerical analysis of the vibration response of skew magneto-electro-elastic plates based on the higher-order shear deformation theory",
-  "ano": 2019,
-  "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/j.compstruct.2019.02.010",
-  "url": ""
- },
- {
   "titulo": "Aplicabilidade das tecnologias de soldadura sector da saúde: revisão crítica",
   "ano": 2019,
   "tipo": "dissertation-thesis",
@@ -418,16 +370,16 @@
  {
   "titulo": "An Optimization Strategy for Customized Radiotherapy Head Immobilization Masks",
   "ano": 2019,
-  "tipo": "other",
-  "revista": "2019 IEEE 6th Portuguese Meeting on Bioengineering (ENBENG)",
+  "tipo": "journal-article",
+  "revista": "2019 6TH IEEE PORTUGUESE MEETING IN BIOENGINEERING (ENBENG)",
   "doi": "10.1109/enbeng.2019.8692572",
   "url": ""
  },
  {
   "titulo": "Ankle Foot Orthosis (AFO) stiffness design for mitigation of ankle inversion injury",
   "ano": 2019,
-  "tipo": "other",
-  "revista": "2019 IEEE 6th Portuguese Meeting on Bioengineering (ENBENG)",
+  "tipo": "journal-article",
+  "revista": "2019 6TH IEEE PORTUGUESE MEETING IN BIOENGINEERING (ENBENG)",
   "doi": "10.1109/enbeng.2019.8692490",
   "url": ""
  },
@@ -440,27 +392,67 @@
   "url": "http://hdl.handle.net/10400.21/10198"
  },
  {
-  "titulo": "An assessment of thermally influenced and delamination-induced regions by composites drilling",
-  "ano": 2018,
+  "titulo": "Experimental and numerical study of the joinability of sheets by sheet-bulk forming",
+  "ano": 2019,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/j.compstruct.2018.02.046",
+  "revista": "INTERNATIONAL JOURNAL FOR COMPUTATIONAL METHODS IN ENGINEERING SCIENCE & MECHANICS",
+  "doi": "10.1080/15502287.2019.1644391",
   "url": ""
  },
  {
-  "titulo": "Toward Variability Characterization and Statistic Models’ Constitution for the Prediction of Exponentially Graded Plates’ Static Response",
-  "ano": 2018,
+  "titulo": "Influence of interphase on the multi-physics coupled frequency of three-phase smart magneto-electro-elastic composite plates",
+  "ano": 2019,
   "tipo": "journal-article",
-  "revista": "Journal of Composites Science",
-  "doi": "10.3390/jcs2040059",
-  "url": "http://www.mdpi.com/2504-477X/2/4/59"
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/j.compstruct.2019.111254",
+  "url": ""
  },
  {
-  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation II",
-  "ano": 2018,
+  "titulo": "Mechanical Behavior of Porous Functionally Graded Nanocomposite Materials",
+  "ano": 2019,
   "tipo": "journal-article",
-  "revista": "Mathematics in Computer Science",
-  "doi": "10.1007/s11786-018-0341-9",
+  "revista": "C-JOURNAL OF CARBON RESEARCH",
+  "doi": "10.3390/c5020034",
+  "url": ""
+ },
+ {
+  "titulo": "Mechanical Behaviour of Corrugated Laminates",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "Numerical analysis of the vibration response of skew magneto-electro-elastic plates based on the higher-order shear deformation theory",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/j.compstruct.2019.02.010",
+  "url": ""
+ },
+ {
+  "titulo": "Overview on the Evolution of Laser Welding of Vascular and Nervous Tissues",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "APPLIED SCIENCES-BASEL",
+  "doi": "10.3390/app9102157",
+  "url": ""
+ },
+ {
+  "titulo": "Radiotherapy-customized head immobilization masks: from modeling and analysis to 3D printing",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "NUCLEAR SCIENCE AND TECHNIQUES",
+  "doi": "10.1007/s41365-019-0667-2",
+  "url": ""
+ },
+ {
+  "titulo": "Using 3D anthropometric data for the modelling of customised head immobilisation masks",
+  "ano": 2019,
+  "tipo": "journal-article",
+  "revista": "COMPUTER METHODS IN BIOMECHANICS AND BIOMEDICAL ENGINEERING-IMAGING AND VISUALIZATION",
+  "doi": "10.1080/21681163.2018.1507840",
   "url": ""
  },
  {
@@ -472,6 +464,14 @@
   "url": ""
  },
  {
+  "titulo": "An assessment of thermally influenced and delamination-induced regions by composites drilling",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/j.compstruct.2018.02.046",
+  "url": ""
+ },
+ {
   "titulo": "Comportamento mecânico de materiais compósitos de origem natural",
   "ano": 2018,
   "tipo": "dissertation-thesis",
@@ -480,20 +480,28 @@
   "url": "http://hdl.handle.net/10400.21/9679"
  },
  {
-  "titulo": "Developments on finite element methods for medical image supported diagnostics",
-  "ano": 2018,
-  "tipo": "book",
-  "revista": "Lecture Notes in Computational Vision and Biomechanics",
-  "doi": "10.1007/978-3-319-68195-5_30",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85032356794&partnerID=MN8TOARS"
- },
- {
-  "titulo": "Effect of BaTiO <inf>3</inf> /CoFe <inf>2</inf> O <inf>4</inf> micro-topological textures on the coupled static behaviour of magneto-electro-thermo-elastic beams in different thermal environment",
+  "titulo": "Developments on Finite Element Methods for Medical Image Supported Diagnostics",
   "ano": 2018,
   "tipo": "journal-article",
-  "revista": "Materials Research Express",
+  "revista": "VIPIMAGE 2017",
+  "doi": "10.1007/978-3-319-68195-5_30",
+  "url": ""
+ },
+ {
+  "titulo": "Effect of BaTiO<sub>3</sub>/CoFe<sub>2</sub>O<sub>4</sub> micro-topological textures on the coupled static behaviour of magneto-electro-thermo-elastic beams in different thermal environment",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "MATERIALS RESEARCH EXPRESS",
   "doi": "10.1088/2053-1591/aae0c8",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85060135701&partnerID=MN8TOARS"
+  "url": ""
+ },
+ {
+  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation II",
+  "ano": 2018,
+  "tipo": "journal-article",
+  "revista": "MATHEMATICS IN COMPUTER SCIENCE",
+  "doi": "10.1007/s11786-018-0341-9",
+  "url": ""
  },
  {
   "titulo": "Reconstrução 3D e prototipagem rápida de estruturas anatómicas a partir de imagens de tomografia computorizada",
@@ -504,20 +512,20 @@
   "url": "http://hdl.handle.net/10400.21/10808"
  },
  {
-  "titulo": "Multiscale stress analysis in CFRC using microscope image data of carbon fibres",
-  "ano": 2017,
+  "titulo": "Toward Variability Characterization and Statistic Models' Constitution for the Prediction of Exponentially Graded Plates' Static Response",
+  "ano": 2018,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/j.compstruct.2017.05.020",
+  "revista": "JOURNAL OF COMPOSITES SCIENCE",
+  "doi": "10.3390/jcs2040059",
   "url": ""
  },
  {
   "titulo": "Adaptive empirical distributions in the framework of inverse problems",
   "ano": 2017,
   "tipo": "journal-article",
-  "revista": "International Journal of Computational Methods in Engineering Science and Mechanics",
+  "revista": "INTERNATIONAL JOURNAL FOR COMPUTATIONAL METHODS IN ENGINEERING SCIENCE & MECHANICS",
   "doi": "10.1080/15502287.2017.1287227",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85014426320&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Análise multiescala do estado de tensão em compósitos com recurso a imagens de microscópio",
@@ -536,12 +544,20 @@
   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85040714146&partnerID=MN8TOARS"
  },
  {
+  "titulo": "Assessing the influence of material and geometrical uncertainty on the mechanical behavior of functionally graded material plates",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "MECHANICS OF ADVANCED MATERIALS AND STRUCTURES",
+  "doi": "10.1080/15376494.2016.1191100",
+  "url": ""
+ },
+ {
   "titulo": "Bat-inspired optimization of multilayered adaptive structures",
   "ano": 2017,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
+  "revista": "COMPOSITE STRUCTURES",
   "doi": "10.1016/j.compstruct.2017.01.067",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85013466554&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Comparison between 3D laser scanning and computed tomography on the modelling of head surface",
@@ -555,7 +571,7 @@
   "titulo": "Dynamic Response of Soft Core Sandwich Beams with Metal-Graphene Nanocomposite Skins",
   "ano": 2017,
   "tipo": "journal-article",
-  "revista": "Shock and Vibration",
+  "revista": "SHOCK AND VIBRATION",
   "doi": "10.1155/2017/7842413",
   "url": ""
  },
@@ -563,7 +579,7 @@
   "titulo": "Dynamic instability of variable stiffness composite plates",
   "ano": 2017,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
+  "revista": "COMPOSITE STRUCTURES",
   "doi": "10.1016/j.compstruct.2017.09.046",
   "url": ""
  },
@@ -584,12 +600,28 @@
   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85040743002&partnerID=MN8TOARS"
  },
  {
+  "titulo": "Laser Scanning And Computed Tomography 3D: Application In The Skin Surface Modelling Of PIXI Phantom Head",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "EUROPEAN JOURNAL OF NUCLEAR MEDICINE AND MOLECULAR IMAGING",
+  "doi": "",
+  "url": ""
+ },
+ {
   "titulo": "Mechanical behaviour of adaptive structures",
   "ano": 2017,
   "tipo": "dissertation-thesis",
   "revista": "",
   "doi": "",
   "url": "http://hdl.handle.net/10400.21/7052"
+ },
+ {
+  "titulo": "Multiscale stress analysis in CFRC using microscope image data of carbon fibres",
+  "ano": 2017,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/j.compstruct.2017.05.020",
+  "url": ""
  },
  {
   "titulo": "Reconstruction and analysis of hybrid composite shells using meshless methods",
@@ -616,30 +648,6 @@
   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85040724305&partnerID=MN8TOARS"
  },
  {
-  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation",
-  "ano": 2016,
-  "tipo": "journal-article",
-  "revista": "Mathematics in Computer Science",
-  "doi": "10.1007/s11786-016-0270-4",
-  "url": ""
- },
- {
-  "titulo": "Assessing the influence of material and geometrical uncertainty on the mechanical behavior of FGM plates",
-  "ano": 2016,
-  "tipo": "journal-article",
-  "revista": "Mechanics of Advanced Materials and Structures",
-  "doi": "10.1080/15376494.2016.1191100",
-  "url": ""
- },
- {
-  "titulo": "A Symbolic Simulator Platform for the Static Analysis of Thin Plates",
-  "ano": 2016,
-  "tipo": "journal-article",
-  "revista": "Int. J. Onl. Eng.",
-  "doi": "10.3991/ijoe.v12i04.4963",
-  "url": ""
- },
- {
   "titulo": "A Study on the Behavior of Laminated and Sandwich Composite Plates using a Layerwise Theory",
   "ano": 2016,
   "tipo": "journal-article",
@@ -648,28 +656,36 @@
   "url": ""
  },
  {
+  "titulo": "A Symbolic Simulator Platform for the Static Analysis of Thin Plates",
+  "ano": 2016,
+  "tipo": "journal-article",
+  "revista": "INTERNATIONAL JOURNAL OF ONLINE ENGINEERING",
+  "doi": "10.3991/ijoe.v12i04.4963",
+  "url": ""
+ },
+ {
   "titulo": "A study on the structural behaviour of FGM plates static and free vibrations analyses",
   "ano": 2016,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
+  "revista": "COMPOSITE STRUCTURES",
   "doi": "10.1016/j.compstruct.2015.09.027",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84944930044&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Assessing the static behavior of hybrid CNT-metal-ceramic composite plates",
   "ano": 2016,
   "tipo": "journal-article",
-  "revista": "AIMS Materials Science",
+  "revista": "AIMS MATERIALS SCIENCE",
   "doi": "10.3934/matersci.2016.3.808",
   "url": ""
  },
  {
-  "titulo": "Functionally graded particulate composite plates: A dydactic case study",
+  "titulo": "Foreword to the Special Focus on Advances in Symbolic and Numeric Computation",
   "ano": 2016,
-  "tipo": "conference-paper",
-  "revista": "exp.at 2015 - 3rd Experiment International Conference: Online Experimentation",
-  "doi": "10.1109/expat.2015.7463253",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84973637711&partnerID=MN8TOARS"
+  "tipo": "journal-article",
+  "revista": "MATHEMATICS IN COMPUTER SCIENCE",
+  "doi": "10.1007/s11786-016-0270-4",
+  "url": ""
  },
  {
   "titulo": "On the characterization of the free vibrations behavior of multiscale composite plates",
@@ -683,15 +699,15 @@
   "titulo": "Photogrammetric analysis of rubble mound breakwaters scale model tests",
   "ano": 2016,
   "tipo": "journal-article",
-  "revista": "AIMS Environmental Science",
+  "revista": "AIMS ENVIRONMENTAL SCIENCE",
   "doi": "10.3934/environsci.2016.3.541",
   "url": ""
  },
  {
-  "titulo": "Preface for the special issue on “Structures Rehabilitation”",
+  "titulo": "Preface for the special issue on \"Structures Rehabilitation\"",
   "ano": 2016,
   "tipo": "journal-article",
-  "revista": "Engineering Structures",
+  "revista": "ENGINEERING STRUCTURES",
   "doi": "10.1016/j.engstruct.2016.10.025",
   "url": ""
  },
@@ -699,17 +715,17 @@
   "titulo": "Towards an expeditious as-is surface reconstruction",
   "ano": 2016,
   "tipo": "journal-article",
-  "revista": "Engineering Structures",
+  "revista": "ENGINEERING STRUCTURES",
   "doi": "10.1016/j.engstruct.2016.11.042",
   "url": ""
  },
  {
-  "titulo": "Using the finite element method to understand calculus",
+  "titulo": "Using the Finite Element Method To Understand Calculus",
   "ano": 2016,
-  "tipo": "conference-paper",
-  "revista": "CISPEE 2016 - 2nd International Conference of the Portuguese Society for Engineering Education, Proceedings",
+  "tipo": "journal-article",
+  "revista": "2016 2ND INTERNATIONAL CONFERENCE OF THE PORTUGUESE SOCIETY FOR ENGINEERING EDUCATION (CISPEE)",
   "doi": "10.1109/cispee.2016.7777734",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85010332883&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "3D Surface Reconstruction using Compactly-Supported Radial Basis Functions: a Parametric Study",
@@ -734,14 +750,6 @@
   "revista": "RehabStructures 2015, International Conference on Recent Advances in Rehabilitation and Sustainability of Structures",
   "doi": "",
   "url": "http://www.eccomas.org/cvdata/cntr1/spc10/dtos/img/mdia/RehabStructures2015-proceedings.pdf"
- },
- {
-  "titulo": "Mechanics of homogeneous and non-homogeneous thin plates: A symbolic simulation platform",
-  "ano": 2015,
-  "tipo": "conference-paper",
-  "revista": "2015 3rd Experiment International Conference (exp.at'15)",
-  "doi": "10.1109/expat.2015.7463281",
-  "url": ""
  },
  {
   "titulo": "Surface reconstruction from unorganized point cloud via virtual structured mesh.",
@@ -792,12 +800,12 @@
   "url": "http://www.eccomas.org/cvdata/cntr1/spc10/dtos/img/mdia/symcomp2015-proceedings.pdf"
  },
  {
-  "titulo": "A hybrid procedure to identify the optimal stiffness coefficients of elastically restrained beams",
+  "titulo": "A HYBRID PROCEDURE TO IDENTIFY THE OPTIMAL STIFFNESS COEFFICIENTS OF ELASTICALLY RESTRAINED BEAMS",
   "ano": 2015,
   "tipo": "journal-article",
-  "revista": "International Journal of Applied Mathematics and Computer Science",
+  "revista": "INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS AND COMPUTER SCIENCE",
   "doi": "10.1515/amcs-2015-0019",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84934281978&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Conversão de um veículo de combustão em veículo elétrico",
@@ -824,12 +832,28 @@
   "url": "http://hdl.handle.net/10400.21/5500"
  },
  {
+  "titulo": "Functionally Graded Particulate Composite Plates: a Dydactic Case Study",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "PROCEEDINGS OF 2015 3RD EXPERIMENT AT INTERNATIONAL CONFERENCE (EXP AT'15)",
+  "doi": "10.1109/expat.2015.7463253",
+  "url": ""
+ },
+ {
   "titulo": "Influência da variabilidade dos materiais compósitos na resposta dinâmica de estruturas laminadas",
   "ano": 2015,
   "tipo": "dissertation-thesis",
   "revista": "",
   "doi": "",
   "url": "http://hdl.handle.net/10400.21/5546"
+ },
+ {
+  "titulo": "Mechanics of Homogeneous and Non-homogeneous Thin Plates: a Symbolic Simulation Platform",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "PROCEEDINGS OF 2015 3RD EXPERIMENT AT INTERNATIONAL CONFERENCE (EXP AT'15)",
+  "doi": "10.1109/expat.2015.7463281",
+  "url": ""
  },
  {
   "titulo": "Optimization of hygrothermal residual stresses in functionally graded composites",
@@ -848,12 +872,20 @@
   "url": "http://hdl.handle.net/10400.21/5948"
  },
  {
-  "titulo": "Planar surfaces recognition in 3D point cloud using a real-coded multistage genetic algorithm",
+  "titulo": "Planar Surfaces Recognition in 3D Point Cloud Using a Real-Coded Multistage Genetic Algorithm",
   "ano": 2015,
-  "tipo": "book",
-  "revista": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+  "tipo": "journal-article",
+  "revista": "APPLICATIONS OF EVOLUTIONARY COMPUTATION, EVOAPPLICATIONS 2015",
   "doi": "10.1007/978-3-319-16549-3_43",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84925852409&partnerID=MN8TOARS"
+  "url": ""
+ },
+ {
+  "titulo": "Virtual Testing of the Hygrothermal Residual Stresses in Functionally Graded Composites: Modelling and Optimization",
+  "ano": 2015,
+  "tipo": "journal-article",
+  "revista": "ONLINE EXPERIMENTATION: EMERGING TECHNOLOGIES AND IOT",
+  "doi": "",
+  "url": ""
  },
  {
   "titulo": "Probability Distribution Estimation Based on Experimental Variability Using Differential Evolution",
@@ -896,12 +928,12 @@
   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84910647147&partnerID=MN8TOARS"
  },
  {
-  "titulo": "Logarithmically proportional objective function for planar surfaces recognition in 3D point cloud",
+  "titulo": "Logarithmically Proportional Objective Function for Planar Surfaces Recognition in 3D Point Cloud",
   "ano": 2014,
-  "tipo": "conference-paper",
-  "revista": "2014 6th World Congress on Nature and Biologically Inspired Computing, NaBIC 2014",
+  "tipo": "journal-article",
+  "revista": "2014 SIXTH WORLD CONGRESS ON NATURE AND BIOLOGICALLY INSPIRED COMPUTING (NABIC)",
   "doi": "10.1109/nabic.2014.6921891",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84911914211&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Modelling and aerodynamic simulation of a vehicle and failure analysis of a laminated front fender",
@@ -912,28 +944,36 @@
   "url": "http://hdl.handle.net/10400.21/3565"
  },
  {
-  "titulo": "Optimal location of supports in beam structures using genetic algorithms",
+  "titulo": "On the use of particle swarm optimization to maximize bending stiffness of functionally graded structures",
   "ano": 2014,
-  "tipo": "conference-paper",
-  "revista": "2014 6th World Congress on Nature and Biologically Inspired Computing, NaBIC 2014",
+  "tipo": "journal-article",
+  "revista": "JOURNAL OF SYMBOLIC COMPUTATION",
+  "doi": "10.1016/j.jsc.2013.10.006",
+  "url": ""
+ },
+ {
+  "titulo": "Optimal Location of Supports in Beam Structures Using Genetic Algorithms",
+  "ano": 2014,
+  "tipo": "journal-article",
+  "revista": "2014 SIXTH WORLD CONGRESS ON NATURE AND BIOLOGICALLY INSPIRED COMPUTING (NABIC)",
   "doi": "10.1109/nabic.2014.6921894",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84911866483&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Optimization of magneto-electro-elastic composite structures using differential evolution",
   "ano": 2014,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
+  "revista": "COMPOSITE STRUCTURES",
   "doi": "10.1016/j.compstruct.2013.08.005",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84889686906&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Optimization of structures modeled with a meshfree approach",
   "ano": 2014,
-  "tipo": "conference-paper",
-  "revista": "2014 6th World Congress on Nature and Biologically Inspired Computing, NaBIC 2014",
+  "tipo": "journal-article",
+  "revista": "2014 SIXTH WORLD CONGRESS ON NATURE AND BIOLOGICALLY INSPIRED COMPUTING (NABIC)",
   "doi": "10.1109/nabic.2014.6921881",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84911922656&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "A remote virtual experiment in mechanical engineering",
@@ -944,12 +984,12 @@
   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893967286&partnerID=MN8TOARS"
  },
  {
-  "titulo": "An educational platform in structural mechanics",
+  "titulo": "An Educational Platform in Structural Mechanics",
   "ano": 2013,
   "tipo": "journal-article",
-  "revista": "International Journal of Online Engineering",
+  "revista": "INTERNATIONAL JOURNAL OF ONLINE ENGINEERING",
   "doi": "10.3991/ijoe.v9is8.3319",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84900369685&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Analysis and Optimization of agro-waste composite beam structures",
@@ -963,9 +1003,9 @@
   "titulo": "Analysis of functionally graded sandwich plate structures with piezoelectric skins, using B-spline finite strip method",
   "ano": 2013,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
+  "revista": "COMPOSITE STRUCTURES",
   "doi": "10.1016/j.compstruct.2012.08.010",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84870402876&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Characterization and modeling of building cracks using 3D laser scanning as rehabilitation support",
@@ -1008,14 +1048,6 @@
   "url": "http://eccomas.cimne.com/cvdata/cntr1/spc10/dtos/img/mdia/SYMCOMP2013-proceedings.pdf"
  },
  {
-  "titulo": "On the use of particle swarm optimization to maximize bending stiffness of functionally graded structures",
-  "ano": 2013,
-  "tipo": "journal-article",
-  "revista": "Journal of Symbolic Computation",
-  "doi": "10.1016/j.jsc.2013.10.006",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84888203277&partnerID=MN8TOARS"
- },
- {
   "titulo": "Optimal Identification of Elastic Support Parameters on Bernoulli- Euler Beams",
   "ano": 2013,
   "tipo": "conference-paper",
@@ -1040,12 +1072,12 @@
   "url": ""
  },
  {
-  "titulo": "Thermal residual stresses in functionally graded structures: A didactic case study",
+  "titulo": "Thermal Residual Stresses in Functionally Graded Structures: a Didactic Case Study",
   "ano": 2013,
-  "tipo": "conference-paper",
-  "revista": "Proceedings - 2013 2nd Experiment@ International Conference, exp.at 2013",
+  "tipo": "journal-article",
+  "revista": "2013 2ND EXPERIMENT@ INTERNATIONAL CONFERENCE (EXP.AT'13)",
   "doi": "10.1109/expat.2013.6703075",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893965893&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Towards an Optimization Strategy Definition for Natural Fibre Laminates",
@@ -1059,9 +1091,9 @@
   "titulo": "A study on the modeling of sandwich functionally graded particulate composites",
   "ano": 2012,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
+  "revista": "COMPOSITE STRUCTURES",
   "doi": "10.1016/j.compstruct.2012.02.015",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84859007856&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Análise computacional de juntas adesivas simples e duplas em materiais compósitos",
@@ -1080,34 +1112,10 @@
   "url": ""
  },
  {
-  "titulo": "Liquid Hydrocarbons road transportation in Europe: study on the influence of construction codes on pressure vessels thickness",
-  "ano": 2012,
-  "tipo": "conference-paper",
-  "revista": "Proceedings ICPVT-13, The 13th International Conference on Pressure Vessel Technology",
-  "doi": "",
-  "url": ""
- },
- {
   "titulo": "Optimal Design of Sandwich Functionally Graded Structures using Particle Swarm Optimization",
   "ano": 2012,
   "tipo": "conference-paper",
   "revista": "Proceedings EngOpt 2012, International Conference of Engineering Optimization",
-  "doi": "",
-  "url": ""
- },
- {
-  "titulo": "Homogenization scheme influence on the mechanical behavior of sandwich functionally graded particulate composites",
-  "ano": 2011,
-  "tipo": "conference-paper",
-  "revista": "Proceedings International Conference on Recent Advances in Nonlinear Models – Structural Concrete Applications CoRAN 2011",
-  "doi": "",
-  "url": ""
- },
- {
-  "titulo": "Optimal design of reinforced concrete structures under fire conditions",
-  "ano": 2011,
-  "tipo": "conference-paper",
-  "revista": "Proc. International Conference on Recent Advances in Nonlinear Models – Structural Concrete Applications CoRAN 2011",
   "doi": "",
   "url": ""
  },
@@ -1136,10 +1144,26 @@
   "url": "http://hdl.handle.net/10400.21/1150"
  },
  {
+  "titulo": "HOMOGENIZATION SCHEME INFLUENCE ON THE MECHANIC AL BEHAVIOR OF SANDWICH FUNCTIONALLY GRADED PARTICULATE COMPOSITES",
+  "ano": 2011,
+  "tipo": "journal-article",
+  "revista": "CORAN 2011: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN NONLINEAR MODELS - STRUCTURAL CONCRETE APPLICATIONS",
+  "doi": "",
+  "url": ""
+ },
+ {
   "titulo": "Minimization of Thermal Residual Stresses on Functionally Graded Sandwich Structures Using Differential Evolution",
   "ano": 2011,
   "tipo": "conference-paper",
   "revista": "Proceedings Second International Symposium on Computational Intelligence for Engineering Systems ISCIES 2011",
+  "doi": "",
+  "url": ""
+ },
+ {
+  "titulo": "OPTIMAL DESIGN OF REINFORCED CONCRETE STRUCTURES UNDER FIRE CONDITIONS",
+  "ano": 2011,
+  "tipo": "journal-article",
+  "revista": "CORAN 2011: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON RECENT ADVANCES IN NONLINEAR MODELS - STRUCTURAL CONCRETE APPLICATIONS",
   "doi": "",
   "url": ""
  },
@@ -1152,20 +1176,20 @@
   "url": ""
  },
  {
-  "titulo": "Optimal design of piezolaminated structures using B-spline finite strip models and genetic algorithms",
+  "titulo": "Optimal Design of Piezolaminated Structures Using B-Spline Finite Strip Models and Genetic Algorithms",
   "ano": 2010,
   "tipo": "journal-article",
-  "revista": "International Journal of Computational Methods in Engineering Science and Mechanics",
+  "revista": "INTERNATIONAL JOURNAL FOR COMPUTATIONAL METHODS IN ENGINEERING SCIENCE & MECHANICS",
   "doi": "10.1080/15502287.2010.483240",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-77954050312&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Optimal design of piezolaminated structures using B-spline strip finite element models",
   "ano": 2010,
   "tipo": "journal-article",
-  "revista": "Inverse Problems in Science and Engineering",
+  "revista": "INVERSE PROBLEMS IN SCIENCE AND ENGINEERING",
   "doi": "10.1080/17415971003624363",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-77952338231&partnerID=MN8TOARS"
+  "url": ""
  },
  {
   "titulo": "Localização Óptima de Piezoactuadores em Estruturas Laminadas",
@@ -1184,36 +1208,36 @@
   "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-0036658995&partnerID=MN8TOARS"
  },
  {
-  "titulo": "Higher-order B-spline strip models for laminated composite structures with integrated sensors and actuators",
-  "ano": 2001,
+  "titulo": "Recent developments in modelling and design of laminated and piezolaminated structures by the finite strip method",
+  "ano": 2002,
   "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/s0263-8223(01)00097-6",
-  "url": ""
- },
- {
-  "titulo": "Higher-order B-spline finite strip model for laminated adaptive structures",
-  "ano": 2001,
-  "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/s0263-8223(01)00032-0",
+  "revista": "COMPUTATIONAL STRUCTURES TECHNOLOGY",
+  "doi": "",
   "url": ""
  },
  {
   "titulo": "Analysis of piezolaminated plates by the spline finite strip method",
   "ano": 2001,
   "tipo": "journal-article",
-  "revista": "Computers and Structures",
+  "revista": "COMPUTERS & STRUCTURES",
   "doi": "10.1016/s0045-7949(01)00065-7",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-0035505020&partnerID=MN8TOARS"
+  "url": ""
  },
  {
-  "titulo": "Recent developments in modelling and design of laminated and piezolaminated structures by the finite strip method",
+  "titulo": "Higher-order B-spline finite strip model for laminated adaptive structures",
   "ano": 2001,
-  "tipo": "conference-paper",
-  "revista": "International Conference on Computational Structures Technology - Proceedings",
-  "doi": "",
-  "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-0035783615&partnerID=MN8TOARS"
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/s0263-8223(01)00032-0",
+  "url": ""
+ },
+ {
+  "titulo": "Higher-order B-spline strip models for laminated composite structures with integrated sensors and actuators",
+  "ano": 2001,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/s0263-8223(01)00097-6",
+  "url": ""
  },
  {
   "titulo": "STATIC AND DYNAMIC BEHAVIOUR OF LAMINATED COMPOSITE BEAMS",
@@ -1235,25 +1259,25 @@
   "titulo": "Analysis of angle-ply piezolaminated plate structures by spline finite strip method",
   "ano": 1999,
   "tipo": "journal-article",
-  "revista": "Developments in Analysis and Design Using Finite Element Methods",
+  "revista": "DEVELOPMENTS IN ANALYSIS AND DESIGN USING FINITE ELEMENT METHODS",
   "doi": "",
-  "url": "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000084532800015&KeyUID=WOS:000084532800015"
- },
- {
-  "titulo": "Buckling behaviour of laminated beam structures using a higher-order discrete model",
-  "ano": 1997,
-  "tipo": "journal-article",
-  "revista": "Composite Structures",
-  "doi": "10.1016/s0263-8223(98)80011-1",
   "url": ""
  },
  {
   "titulo": "A refined model for eigenfrequency analysis of thin and thick composite beam structures",
   "ano": 1997,
   "tipo": "journal-article",
-  "revista": "Marine Technology Ii",
+  "revista": "MARINE TECHNOLOGY II",
   "doi": "",
-  "url": "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:A1997BJ39L00009&KeyUID=WOS:A1997BJ39L00009"
+  "url": ""
+ },
+ {
+  "titulo": "Buckling behaviour of laminated beam structures using a higher-order discrete model",
+  "ano": 1997,
+  "tipo": "journal-article",
+  "revista": "COMPOSITE STRUCTURES",
+  "doi": "10.1016/s0263-8223(98)80011-1",
+  "url": ""
  },
  {
   "titulo": "Refined model for eigenfrequency analysis of thin and thick composite beam structures",
@@ -1267,8 +1291,8 @@
   "titulo": "Discrete model for the analysis of thin and thick composite beam structures",
   "ano": 1995,
   "tipo": "journal-article",
-  "revista": "Marine Technology and Transportation",
+  "revista": "MARINE TECHNOLOGY AND TRANSPORTATION",
   "doi": "",
-  "url": "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:A1995BE46Z00021&KeyUID=WOS:A1995BE46Z00021"
+  "url": ""
  }
 ]

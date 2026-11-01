@@ -35,9 +35,9 @@
   "titulo": "A study on the static behavior of functionally graded I-shaped beams",
   "ano": 2023,
   "tipo": "journal-article",
-  "revista": "AIMS Materials Science",
+  "revista": "Aims Materials Science",
   "doi": "10.3934/matersci.2024002",
-  "url": "http://dx.doi.org/10.3934/matersci.2024002"
+  "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-85184228602&partnerID=MN8TOARS"
  },
  {
   "titulo": "Characterization of the movement associated with the manipulation of a microtome and its pathologies",
@@ -72,6 +72,14 @@
   "url": ""
  },
  {
+  "titulo": "Characterization of a dance movement using a Kinetic camera",
+  "ano": 2019,
+  "tipo": "conference-paper",
+  "revista": "6th IEEE Portuguese Meeting on Bioengineering Enbeng 2019 Proceedings",
+  "doi": "10.1109/enbeng.2019.8692449",
+  "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-85065474762&partnerID=MN8TOARS"
+ },
+ {
   "titulo": "An assessment of thermally influenced and delamination-induced regions by composites drilling",
   "ano": 2018,
   "tipo": "journal-article",
@@ -91,9 +99,17 @@
   "titulo": "Identification of contact properties of the foot in the stance phase of walking",
   "ano": 2017,
   "tipo": "conference-paper",
-  "revista": "5th IEEE Portuguese BioEngineering Meeting",
+  "revista": "Enbeng 2017 5th Portuguese Meeting on Bioengineering Proceedings",
   "doi": "10.1109/enbeng.2017.7889464",
-  "url": ""
+  "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-85018694051&partnerID=MN8TOARS"
+ },
+ {
+  "titulo": "Towards damage quantification caused by drilling in fibre composite laminates",
+  "ano": 2017,
+  "tipo": "conference-paper",
+  "revista": "Symcomp 2017 3rd International Conference on Numerical and Symbolic Computation Developments and Applications Proceedings",
+  "doi": "",
+  "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-85040724305&partnerID=MN8TOARS"
  },
  {
   "titulo": "Identification of Damage in Composite Materials Using Digital Image Correlation and Thermoelastic Stress Analysis",
